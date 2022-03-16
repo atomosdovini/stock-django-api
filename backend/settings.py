@@ -30,7 +30,7 @@ SECRET_KEY = config("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG', cast=bool)
 
-ALLOWED_HOSTS = ['*', '127.0.0.1',]
+ALLOWED_HOSTS = ['*', '127.0.0.1', 'consense-djangoapi.herokuapp.com']
 AFTER_RESPONSE_RUN_ASYNC = False
 
 # Application definition
@@ -64,6 +64,7 @@ CORS_ORIGIN_WHITELIST = [
     'http://google.com',
     'http://127.0.0.1:8000',
     'http://127.0.0.1:3000',
+    'https://consense-djangoapi.herokuapp.com/'
 ]
 
 MIDDLEWARE = [
@@ -222,7 +223,7 @@ DJOSER = {
 
 CSRF_USE_SESSIONS = True
 CSRF_COOKIE_SAMESITE = 'None'
-CSRF_TRUSTED_ORIGINS = ['127.0.0.1:3000','127.0.0.1:8000']
+CSRF_TRUSTED_ORIGINS = ['127.0.0.1:3000','127.0.0.1:8000','consense-djangoapi.herokuapp.com']
 CSRF_COOKIE_SECURE = True
 CSRF_COOKIE_SAMESITE = 'Strict'
 SESSION_COOKIE_SAMESITE = 'Strict'
