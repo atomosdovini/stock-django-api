@@ -1,0 +1,12 @@
+
+{% extends "admin/change_form.html" %}
+{% block submit_buttons_bottom %}
+{% if original == None %}
+{{obj}}
+<div class="submit-row">
+  <input type="submit" value="Criar Usuário" name="_usercreate">
+</div>
+{% else %}
+{{ block.super }}
+{% endif %}
+{% endblock %}

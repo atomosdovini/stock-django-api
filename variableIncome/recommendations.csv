@@ -1,0 +1,2521 @@
+ticker	acao	setor	research	fechamento	rating	preco_alvo
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	1	01/12/2021	Compra	25
+ARZZ3	Arezzo & Co	Bens de Consumo e Varejo	1	01/12/2021	Compra	100
+BIDI11	Banco Inter	Serviços bancários e financeiros	4	01/12/2021	Compra	67
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	10
+OFSA3	Ouro Fino	Agronegócio	5	02/12/2021	Compra	52
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	27
+SLCE3	SLC Agricola	Agronegócio	5	02/12/2021	Compra	55
+SMTO3	São Martinho	Agronegócio	5	02/12/2021	Compra	42
+SOJA3	Boa Safra	Agronegócio	5	02/12/2021	Compra	19
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	5	02/12/2021	Compra	24
+B3SA3	B3	Serviços bancários e financeiros	5	02/12/2021	Compra	22
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	5	02/12/2021	Compra	42
+BBDC4	Bradesco	Serviços bancários e financeiros	5	02/12/2021	Neutra	25
+BBSE3	BB Seguridade	Serviços bancários e financeiros	5	02/12/2021	Compra	32
+BOAS3	Boa Vista Serviços	Serviços bancários e financeiros	5	02/12/2021	Compra	16
+BIDI11	Banco Inter	Serviços bancários e financeiros	5	02/12/2021	Compra	77
+BPAC11	Banco BTG Pactual	Serviços bancários e financeiros	5	02/12/2021	Compra	34
+BPAN4	Banco Pan	Serviços bancários e financeiros	5	02/12/2021	Compra	25
+BRSR6	Banrisul	Serviços bancários e financeiros	5	02/12/2021	Neutra	15
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	5	02/12/2021	Compra	30
+CASH3	Meliuz	Serviços bancários e financeiros	5	02/12/2021	Compra	11
+CIEL3	Cielo	Serviços bancários e financeiros	5	02/12/2021	Neutra	5
+CXSE3	Caixa Seguridade	Serviços bancários e financeiros	5	02/12/2021	Compra	18
+DOTZ3	Dotz	Serviços bancários e financeiros	5	02/12/2021	Compra	22
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	5	02/12/2021	Sob Revisão	 - 
+MOSI3	Mosaico	Bens de Consumo e Varejo	5	02/12/2021	Neutra	13
+MODL11	Banco Modal	Serviços bancários e financeiros	5	02/12/2021	Neutra	20
+PAGS	Pag Seguro	Serviços bancários e financeiros	5	02/12/2021	Compra	70
+PAX	Patria Investments	Serviços bancários e financeiros	5	02/12/2021	Compra	21
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	5	02/12/2021	Neutra	41
+STNE	Stoneco Ltda	Serviços bancários e financeiros	5	02/12/2021	Compra	65
+VINP	Vinci Partners	Serviços bancários e financeiros	5	02/12/2021	Compra	18
+WIZS3	WIZ	Serviços bancários e financeiros	5	02/12/2021	Compra	23
+AMAR3	Lojas Marisa	Bens de Consumo e Varejo	5	02/12/2021	Sob Revisão	 - 
+ALLD3	Allied	Bens de Consumo e Varejo	5	02/12/2021	Compra	32
+ARCO	Arcos Dorados	Bens de Consumo e Varejo	5	02/12/2021	Compra	8
+ASAI3	Assaí	Bens de Consumo e Varejo	5	02/12/2021	Neutra	20
+BKBR3	BK Brasil	Bens de Consumo e Varejo	5	02/12/2021	Compra	13
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	5	02/12/2021	Compra	74
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	5	02/12/2021	Neutra	40
+CRFB3	Carrefour	Bens de Consumo e Varejo	5	02/12/2021	Compra	30
+CVCB3	CVC	Bens de Consumo e Varejo	5	02/12/2021	Sob Revisão	 - 
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	5	02/12/2021	Compra	22
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	5	02/12/2021	Compra	11
+GUAR3	Guararapes	Bens de Consumo e Varejo	5	02/12/2021	Compra	25
+HGTX3	Cia Henrig	Bens de Consumo e Varejo	5	02/12/2021	Sob Revisão	 - 
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	5	02/12/2021	Compra	41
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	5	02/12/2021	Compra	29
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	5	02/12/2021	Compra	25
+LREN3	Lojas Renner	Bens de Consumo e Varejo	5	02/12/2021	Compra	51
+MEAL3	IMC	Bens de Consumo e Varejo	5	02/12/2021	Neutra	5
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	5	02/12/2021	Compra	24
+MBLY3	Mobly	Bens de Consumo e Varejo	5	02/12/2021	Sob Revisão	 - 
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	15
+NTCO3	Natura	Bens de Consumo e Varejo	5	02/12/2021	Compra	40
+PCAR3	GPA	Bens de Consumo e Varejo	5	02/12/2021	Compra	39
+PGMN3	Pague Menos	Saúde e Educação	5	02/12/2021	Compra	16
+SMFT3	Smartfit	Saúde e Educação	5	02/12/2021	Compra	33
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	5	02/12/2021	Neutra	28
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	5	02/12/2021	Compra	20
+TFCO4	Track & Field	Bens de Consumo e Varejo	5	02/12/2021	Compra	18
+VIVA3	Vivara	Bens de Consumo e Varejo	5	02/12/2021	Compra	37
+VIIA3	Via	Bens de Consumo e Varejo	5	02/12/2021	Sob Revisão	 - 
+ABEV3	Ambev	Alimentos e Bebidas	5	02/12/2021	Neutra	19
+BEEF3	Minerva Foods	Alimentos e Bebidas	5	02/12/2021	Compra	17
+BRFS3	BRF Foods	Alimentos e Bebidas	5	02/12/2021	Neutra	25
+CAML3	Camil Alimentos	Alimentos e Bebidas	5	02/12/2021	Neutra	14
+JBSS3	JBS	Alimentos e Bebidas	5	02/12/2021	Compra	47
+MDIA3	M Dias Branco	Alimentos e Bebidas	5	02/12/2021	Neutra	30
+MRFG3	Marfrig	Alimentos e Bebidas	5	02/12/2021	Compra	26
+AFYA	Afya Ltd	Saúde e Educação	5	02/12/2021	Compra	38
+ANIM3	Anima Educação	Saúde e Educação	5	02/12/2021	Compra	19
+ARCE	Arco Platform Ltd	Saúde e Educação	5	02/12/2021	Compra	47
+COGN3	Cogna	Saúde e Educação	5	02/12/2021	Neutra	6
+SEER3	Ser Educacional	Saúde e Educação	5	02/12/2021	Neutra	22
+VTRU	Vitru	Saúde e Educação	5	02/12/2021	Compra	24
+YDUQ3	YDUQS	Saúde e Educação	5	02/12/2021	Neutra	45
+AALR3	Alliar	Saúde e Educação	5	02/12/2021	Neutra	15
+BLAU3	Blau Framacêutica	Saúde e Educação	5	02/12/2021	Compra	68
+DASA3	Dasa	Saúde e Educação	5	02/12/2021	Compra	81
+FLRY3	Fleury	Saúde e Educação	5	02/12/2021	Neutra	29
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	5	02/12/2021	Compra	84
+HAPV3	Hapvida	Saúde e Educação	5	02/12/2021	Compra	17
+KRSA3	Kora Saude Participacoes	Saúde e Educação	5	02/12/2021	Compra	8
+MATD3	Mater Dei	Saúde e Educação	5	02/12/2021	Compra	23
+ODPV3	Odontoprev	Saúde e Educação	5	02/12/2021	Neutra	14
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	5	02/12/2021	Compra	18
+PARD3	Hermes Pardini	Saúde e Educação	5	02/12/2021	Neutra	26
+PNVL3	Dimed	Saúde e Educação	5	02/12/2021	Compra	20
+QUAL3	Qualicorp	Saúde e Educação	5	02/12/2021	Compra	39
+RDOR3	Rede d or	Saúde e Educação	5	02/12/2021	Compra	67
+VVEO3	CM Hospitalar	Saúde e Educação	5	02/12/2021	Compra	35
+BRDT3	BR Distribuidora	Petróleo, Gás e Petroquímicos	5	02/12/2021	Compra	34
+CSAN3	Cosan	Agronegócio	5	02/12/2021	Compra	30
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	5	02/12/2021	Neutra	13
+OPCT3	Oceanpact	Petróleo, Gás e Petroquímicos	5	02/12/2021	Compra	9
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	5	02/12/2021	Compra	38
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	5	02/12/2021	Compra	22
+RECV3	PetroRecôncavo	Petróleo, Gás e Petroquímicos	5	02/12/2021	Compra	25
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	5	02/12/2021	Compra	26
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	36
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	11
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	5	02/12/2021	Neutra	10
+SYNE3	Cyrela Commercial Properties	Propriedades Comerciais e Construção Civil	5	02/12/2021	Neutra	17
+CURY3	Cury	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	15
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	28
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	21
+EVEN3	Even	Propriedades Comerciais e Construção Civil	5	02/12/2021	Neutra	14
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	33
+HBOR3	Helbor	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	14
+IGTA3	Iguatemi	Propriedades Comerciais e Construção Civil	5	02/12/2021	Neutra	322
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	10
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	36
+LPSB3	Lopes Brasil	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	4
+MDNE3	Moura Dubeux	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	18
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	8
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	21
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	5	02/12/2021	Neutra	19
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	31
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	9
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	5	02/12/2021	Neutra	44
+TCSA3	Tecnisa	Propriedades Comerciais e Construção Civil	5	02/12/2021	Venda	9
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	5	02/12/2021	Compra	29
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	5	02/12/2021	Neutra	72
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	5	02/12/2021	Neutra	25
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	5	02/12/2021	Compra	34
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	5	02/12/2021	Compra	28
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	5	02/12/2021	Compra	74
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	5	02/12/2021	Compra	20
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	5	02/12/2021	Compra	16
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	5	02/12/2021	Compra	90
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	29
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	40
+ELMD3	Eletromidia	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	25
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	14
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	28
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	28
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	19
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	36
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	39
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	43
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Compra	45
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	5	02/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	5	02/12/2021	Neutra	41
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	17
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	16
+GGPS3	GPS Serviços	Serviços	5	02/12/2021	Compra	25
+GOLL4	Gol	Transporte e Logística - Bens de Capital	5	02/12/2021	Neutra	25
+JSLG3	JSL	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	15
+LOGN3	Log-In	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	22
+MOVI3	Movida	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	23
+MYPK3	Iochpe-Maxion	Indústria	5	02/12/2021	Neutra	19
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	5	02/12/2021	Neutra	3
+RAPT4	Randon	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	19
+SIMH3	Simpar	Serviços bancários e financeiros	5	02/12/2021	Compra	13
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	9
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	33
+TUPY3	Tupy	Indústria	5	02/12/2021	Compra	27
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	5	02/12/2021	Compra	19
+WEGE3	WEG	Indústria	5	02/12/2021	Neutra	46
+ALUP11	Alupar	Serviços de utilidade pública	5	02/12/2021	Compra	35
+CMIG4	Cemig	Serviços de utilidade pública	5	02/12/2021	Neutra	13
+CPFE3	CPFL Energia	Serviços de utilidade pública	5	02/12/2021	Compra	37
+CPLE6	Copel	Serviços de utilidade pública	5	02/12/2021	Compra	7
+CSMG3	Copasa	Serviços de utilidade pública	5	02/12/2021	Neutra	19
+EGIE3	Engie Brasil	Serviços de utilidade pública	5	02/12/2021	Compra	44
+ELET3	Eletrobras	Serviços de utilidade pública	5	02/12/2021	Compra	53
+ENEV3	Eneva	Serviços de utilidade pública	5	02/12/2021	Compra	19
+ENGI11	Energisa	Serviços de utilidade pública	5	02/12/2021	Compra	65
+EQTL3	Equatorial	Serviços de utilidade pública	5	02/12/2021	Compra	26
+LIGT3	Light S/A	Serviços de utilidade pública	5	02/12/2021	Neutra	21
+NEOE3	Neoenergia	Serviços de utilidade pública	5	02/12/2021	Compra	27
+OMGE3	Omega Geração	Serviços de utilidade pública	5	02/12/2021	Compra	38
+SAPR11	Sanepar	Serviços de utilidade pública	5	02/12/2021	Neutra	40
+SBSP3	Sabesp	Serviços de utilidade pública	5	02/12/2021	Compra	65
+TAEE11	Taesa	Serviços de utilidade pública	5	02/12/2021	Venda	37
+TRPL4	CTEEP	Serviços de utilidade pública	5	02/12/2021	Neutra	28
+TAEE11	Taesa	Serviços de utilidade pública	4	02/12/2021	Venda	36
+B3SA3	B3	Serviços bancários e financeiros	4	02/12/2021	Compra	20
+JBSS3	JBS	Alimentos e Bebidas	4	02/12/2021	Compra	50
+PGMN3	Pague Menos	Saúde e Educação	4	02/12/2021	Compra	18
+ITUB4	Itaú Unibanco	Serviços bancários e financeiros	6	02/12/2021	Neutra	28
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	6	02/12/2021	Compra	52
+BRSR6	Banrisul	Serviços bancários e financeiros	6	02/12/2021	Compra	19
+BBDC4	Bradesco	Serviços bancários e financeiros	6	02/12/2021	Neutra	26
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	6	02/12/2021	Venda	36
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	6	02/12/2021	Compra	29
+BRFS3	BRF Foods	Alimentos e Bebidas	6	02/12/2021	Neutra	30
+JBSS3	JBS	Alimentos e Bebidas	6	02/12/2021	Compra	40
+ABEV3	Ambev	Alimentos e Bebidas	6	02/12/2021	Compra	20
+MRFG3	Marfrig	Alimentos e Bebidas	6	02/12/2021	Compra	24
+JALL3	Jalles Machado	Agronegócio	6	02/12/2021	Compra	14
+SMTO3	São Martinho	Agronegócio	6	02/12/2021	Compra	38
+SOJA3	Boa Safra	Agronegócio	6	02/12/2021	Compra	18
+AGRO3	Brasil Agro	Agronegócio	6	02/12/2021	Compra	34
+BEEF3	Minerva Foods	Alimentos e Bebidas	6	02/12/2021	Sob Revisão	 - 
+MDIA3	M Dias Branco	Alimentos e Bebidas	6	02/12/2021	Sob Revisão	 - 
+SLCE3	SLC Agricola	Agronegócio	6	02/12/2021	Sob Revisão	 - 
+CAML3	Camil Alimentos	Alimentos e Bebidas	6	02/12/2021	Sob Revisão	 - 
+WEGE3	WEG	Indústria	6	02/12/2021	Compra	50
+AERI3	Aeris Energy	Indústria	6	02/12/2021	Neutra	10
+RAPT4	Randon	Transporte e Logística - Bens de Capital	6	02/12/2021	Compra	18
+FRAS3	Fras-Le	Indústria	6	02/12/2021	Neutra	16
+TUPY3	Tupy	Indústria	6	02/12/2021	Compra	32
+MYPK3	Iochpe-Maxion	Indústria	6	02/12/2021	Compra	27
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	6	02/12/2021	Neutra	3
+EMBR3	Embraer	Transporte e Logística - Bens de Capital	6	02/12/2021	Sob Revisão	 - 
+LEVE3	MAHLE Metal Leve	Indústria	6	02/12/2021	Sob Revisão	 - 
+ANIM3	Anima Educação	Saúde e Educação	6	02/12/2021	Compra	15
+YDUQ3	YDUQS	Saúde e Educação	6	02/12/2021	Compra	51
+COGN3	Cogna	Saúde e Educação	6	02/12/2021	Neutra	5
+SEER3	Ser Educacional	Saúde e Educação	6	02/12/2021	Neutra	17
+CSED3	Cruzeiro do Sul	Saúde e Educação	6	02/12/2021	Sob Revisão	 - 
+AESB3	AES Brasil	Serviços de utilidade pública	6	02/12/2021	Compra	16
+EGIE3	Engie Brasil	Serviços de utilidade pública	6	02/12/2021	Neutra	49
+CMIG4	Cemig	Serviços de utilidade pública	6	02/12/2021	Neutra	13
+CIG	Cemig ADR	Serviços de utilidade pública	6	02/12/2021	Neutra	3
+EQTL3	Equatorial	Serviços de utilidade pública	6	02/12/2021	Compra	30
+TRPL4	CTEEP	Serviços de utilidade pública	6	02/12/2021	Neutra	26
+TAEE11	Taesa	Serviços de utilidade pública	6	02/12/2021	Neutra	38
+ENBR3	EDP Brasil	Serviços de utilidade pública	6	02/12/2021	Compra	22
+CPLE6	Copel	Serviços de utilidade pública	6	02/12/2021	Compra	8
+ELP	Copel ADR	Serviços de utilidade pública	6	02/12/2021	Compra	2
+OMGE3	Omega Geração	Serviços de utilidade pública	6	02/12/2021	Compra	48
+CESP6	Cesp	Serviços de utilidade pública	6	02/12/2021	Compra	33
+CPFE3	CPFL Energia	Serviços de utilidade pública	6	02/12/2021	Sob Revisão	 - 
+ELET3	Eletrobras	Serviços de utilidade pública	6	02/12/2021	Sob Revisão	 - 
+ELET6	Eletrobras	Serviços de utilidade pública	6	02/12/2021	Sob Revisão	 - 
+ENEV3	Eneva	Serviços de utilidade pública	6	02/12/2021	Sob Revisão	 - 
+ENGI11	Energisa	Serviços de utilidade pública	6	02/12/2021	Sob Revisão	 - 
+LIGT3	Light S/A	Serviços de utilidade pública	6	02/12/2021	Sob Revisão	 - 
+ALUP11	Alupar	Serviços de utilidade pública	6	02/12/2021	Sob Revisão	 - 
+BRKM5	Braskem	Indústria	6	02/12/2021	Sob Revisão	 - 
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	6	02/12/2021	Sob Revisão	 - 
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	6	02/12/2021	Sob Revisão	 - 
+DXCO3	Duratex S.A.	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Sob Revisão	 - 
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Compra	25
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Compra	122
+CMIN3	CSN Mineração	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Compra	 - 
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Compra	32
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Neutra	 - 
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Compra	95
+CBAV3	Companhia Brasileira de Alumínio	Indústria	6	02/12/2021	Compra	19
+BRAP4	Bradespar	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Compra	83
+GOAU4	Metalúrgica Gerdau	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Compra	15
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Compra	32
+RANI3	Irani	Mineração, Siderurgia, Papel e Celulose	6	02/12/2021	Compra	 - 
+SAPR11	Sanepar	Serviços de utilidade pública	6	02/12/2021	Neutra	26
+SBSP3	Sabesp	Serviços de utilidade pública	6	02/12/2021	Neutra	52
+CSMG3	Copasa	Serviços de utilidade pública	6	02/12/2021	Venda	15
+ORVR3	Orizon	Serviços de utilidade pública	6	02/12/2021	Compra	30
+RDOR3	Rede d or	Saúde e Educação	6	02/12/2021	Compra	88
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	6	02/12/2021	Compra	110
+AALR3	Alliar	Saúde e Educação	6	02/12/2021	Neutra	10
+FLRY3	Fleury	Saúde e Educação	6	02/12/2021	Neutra	29
+PARD3	Hermes Pardini	Saúde e Educação	6	02/12/2021	Neutra	21
+BLAU3	Blau Framacêutica	Saúde e Educação	6	02/12/2021	Compra	64
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	6	02/12/2021	Compra	48
+KRSA3	Kora Saude Participacoes	Saúde e Educação	6	02/12/2021	Compra	12
+DASA3	Dasa	Saúde e Educação	6	02/12/2021	Sob Revisão	 - 
+MATD3	Mater Dei	Saúde e Educação	6	02/12/2021	Sob Revisão	 - 
+QUAL3	Qualicorp	Saúde e Educação	6	02/12/2021	Sob Revisão	 - 
+ODPV3	Odontoprev	Saúde e Educação	6	02/12/2021	Sob Revisão	 - 
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	6	02/12/2021	Sob Revisão	 - 
+CASH3	Meliuz	Serviços bancários e financeiros	6	02/12/2021	Compra	8
+G2DI33	G2D Investments	Serviços bancários e financeiros	6	02/12/2021	Compra	11
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Compra	30
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Compra	35
+POSI3	Positivo Tecnologia	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Compra	16
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Compra	48
+BRIT3	Brisanet Participacoes	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Compra	17
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Compra	13
+TIMS3	TIM	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Sob Revisão	 - 
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Sob Revisão	 - 
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	6	02/12/2021	Compra	16
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	6	02/12/2021	Neutra	12
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	6	02/12/2021	Compra	24
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	6	02/12/2021	Compra	9
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	6	02/12/2021	Neutra	9
+RENT3	Localiza	Transporte e Logística - Bens de Capital	6	02/12/2021	Compra	68
+LCAM3	Unidas	Transporte e Logística - Bens de Capital	6	02/12/2021	Compra	36
+MOVI3	Movida	Transporte e Logística - Bens de Capital	6	02/12/2021	Compra	26
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	6	02/12/2021	Compra	19
+SIMH3	Simpar	Serviços bancários e financeiros	6	02/12/2021	Compra	15
+JSLG3	JSL	Transporte e Logística - Bens de Capital	6	02/12/2021	Compra	12
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	6	02/12/2021	Sob Revisão	 - 
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	6	02/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	6	02/12/2021	Sob Revisão	 - 
+GOLL4	Gol	Transporte e Logística - Bens de Capital	6	02/12/2021	Sob Revisão	 - 
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	6	02/12/2021	Neutra	18
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	6	02/12/2021	Neutra	45
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	6	02/12/2021	Neutra	8
+VIIA3	Via	Bens de Consumo e Varejo	6	02/12/2021	Neutra	10
+MOSI3	Mosaico	Bens de Consumo e Varejo	6	02/12/2021	Compra	38
+ENJU3	Enjoei	Bens de Consumo e Varejo	6	02/12/2021	Neutra	7
+ARZZ3	Arezzo & Co	Bens de Consumo e Varejo	6	02/12/2021	Compra	108
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	6	02/12/2021	Compra	22
+LREN3	Lojas Renner	Bens de Consumo e Varejo	6	02/12/2021	Compra	43
+VIVA3	Vivara	Bens de Consumo e Varejo	6	02/12/2021	Compra	37
+CEAB3	C&A	Bens de Consumo e Varejo	6	02/12/2021	Neutra	9
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Compra	13
+CRFB3	Carrefour	Bens de Consumo e Varejo	6	02/12/2021	Neutra	22
+PCAR3	GPA	Bens de Consumo e Varejo	6	02/12/2021	Neutra	35
+ASAI3	Assaí	Bens de Consumo e Varejo	6	02/12/2021	Compra	23
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	6	02/12/2021	Compra	10
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	6	02/12/2021	Compra	27
+PGMN3	Pague Menos	Saúde e Educação	6	02/12/2021	Compra	15
+DMVF3	d1000	Bens de Consumo e Varejo	6	02/12/2021	Neutra	8
+NTCO3	Natura	Bens de Consumo e Varejo	6	02/12/2021	Compra	63
+CVCB3	CVC	Bens de Consumo e Varejo	6	02/12/2021	Sob Revisão	 - 
+GUAR3	Guararapes	Bens de Consumo e Varejo	6	02/12/2021	Sob Revisão	 - 
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	6	02/12/2021	Sob Revisão	 - 
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	33
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	6	02/12/2021	Neutra	23
+EVEN3	Even	Propriedades Comerciais e Construção Civil	6	02/12/2021	Neutra	13
+TRIS3	Trisul	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	14
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	12
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	9
+CURY3	Cury	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	15
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	21
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	10
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	38
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	48
+GFSA3	Gafisa	Propriedades Comerciais e Construção Civil	6	02/12/2021	Sob Revisão	 - 
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	30
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	13
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	6	02/12/2021	Neutra	40
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	6	02/12/2021	Sob Revisão	 - 
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	6	02/12/2021	Sob Revisão	 - 
+MEAL3	IMC	Bens de Consumo e Varejo	6	02/12/2021	Neutra	4
+PRNR3	Priner	Indústria	6	02/12/2021	Compra	13
+MILS3	Mills	Propriedades Comerciais e Construção Civil	6	02/12/2021	Compra	8
+ALPK3	Estapar	Propriedades Comerciais e Construção Civil	6	02/12/2021	Neutra	10
+VULC3	Vulcabras Azaleia	Bens de Consumo e Varejo	6	02/12/2021	Compra	12
+GRND3	Grendene	Bens de Consumo e Varejo	6	02/12/2021	Neutra	11
+ARML3	Armac Locacao Logistica e Servicos	Transporte e Logística - Bens de Capital	6	02/12/2021	Sob Revisão	 - 
+BKBR3	BK Brasil	Bens de Consumo e Varejo	6	02/12/2021	Sob Revisão	 - 
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Sob Revisão	 - 
+NGRD3	Neogrid	Telecomunicações, Mídia e Tecnologia	6	02/12/2021	Sob Revisão	 - 
+ALLD3	Allied	Bens de Consumo e Varejo	6	02/12/2021	Compra	38
+CASH3	Meliuz	Serviços bancários e financeiros	4	03/12/2021	Compra	8
+RAPT4	Randon	Transporte e Logística - Bens de Capital	4	03/12/2021	Compra	17
+BEEF3	Minerva Foods	Alimentos e Bebidas	4	03/12/2021	Compra	13
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	4	03/12/2021	Compra	12
+JSLG3	JSL	Transporte e Logística - Bens de Capital	1	03/12/2021	Compra	16
+JSLG3	JSL	Transporte e Logística - Bens de Capital	4	03/12/2021	Compra	10
+TAEE11	Taesa	Serviços de utilidade pública	4	03/12/2021	Venda	36
+AZUL4	Azul	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	54
+GOLL4	Gol	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	33
+CSAN3	Cosan	Agronegócio	3	03/12/2021	Sob Revisão	 - 
+JALL3	Jalles Machado	Agronegócio	3	03/12/2021	Compra	16
+SMTO3	São Martinho	Agronegócio	3	03/12/2021	Neutra	33
+AGXY3	Agrogalaxy Participacoes	Agronegócio	3	03/12/2021	Compra	21
+SOJA3	Boa Safra	Agronegócio	3	03/12/2021	Compra	20
+AGRO3	Brasil Agro	Agronegócio	3	03/12/2021	Compra	37
+SLCE3	SLC Agricola	Agronegócio	3	03/12/2021	Neutra	49
+ABEV3	Ambev	Alimentos e Bebidas	3	03/12/2021	Neutra	16
+BEEF3	Minerva Foods	Alimentos e Bebidas	3	03/12/2021	Compra	18
+BRFS3	BRF Foods	Alimentos e Bebidas	3	03/12/2021	Compra	30
+CAML3	Camil Alimentos	Alimentos e Bebidas	3	03/12/2021	Compra	16
+JBSS3	JBS	Alimentos e Bebidas	3	03/12/2021	Neutra	36
+MDIA3	M Dias Branco	Alimentos e Bebidas	3	03/12/2021	Neutra	43
+MRFG3	Marfrig	Alimentos e Bebidas	3	03/12/2021	Neutra	30
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	3	03/12/2021	Compra	21
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	3	03/12/2021	Neutra	39
+BBDC4	Bradesco	Serviços bancários e financeiros	3	03/12/2021	Compra	31
+BIDI11	Banco Inter	Serviços bancários e financeiros	3	03/12/2021	Compra	50
+BMGB4	Banco BMG	Serviços bancários e financeiros	3	03/12/2021	Compra	7
+BPAC11	Banco BTG Pactual	Serviços bancários e financeiros	3	03/12/2021	Compra	33
+BPAN4	Banco Pan	Serviços bancários e financeiros	3	03/12/2021	Compra	29
+BRSR6	Banrisul	Serviços bancários e financeiros	3	03/12/2021	Neutra	15
+ITUB4	Itaú Unibanco	Serviços bancários e financeiros	3	03/12/2021	Compra	35
+ITSA4	Itausa	Serviços bancários e financeiros	3	03/12/2021	Compra	15
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	3	03/12/2021	Compra	49
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	3	03/12/2021	Neutra	 - 
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	3	03/12/2021	Neutra	 - 
+CURY3	Cury	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	12
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	32
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	19
+EVEN3	Even	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	15
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	45
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	10
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	10
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	8
+MDNE3	Moura Dubeux	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	12
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	22
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	15
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	8
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	27
+TRIS3	Trisul	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	14
+ANIM3	Anima Educação	Saúde e Educação	3	03/12/2021	Compra	25
+COGN3	Cogna	Saúde e Educação	3	03/12/2021	Neutra	3
+CSED3	Cruzeiro do Sul	Saúde e Educação	3	03/12/2021	Compra	26
+SEER3	Ser Educacional	Saúde e Educação	3	03/12/2021	Compra	21
+YDUQ3	YDUQS	Saúde e Educação	3	03/12/2021	Compra	53
+CMIG4	Cemig	Serviços de utilidade pública	3	03/12/2021	Neutra	17
+CPLE6	Copel	Serviços de utilidade pública	3	03/12/2021	Compra	9
+EQTL3	Equatorial	Serviços de utilidade pública	3	03/12/2021	Compra	26
+EGIE3	Engie Brasil	Serviços de utilidade pública	3	03/12/2021	Neutra	50
+ENBR3	EDP Brasil	Serviços de utilidade pública	3	03/12/2021	Compra	26
+POWE3	Focus Energia	Serviços de utilidade pública	3	03/12/2021	Neutra	19
+LIGT3	Light S/A	Serviços de utilidade pública	3	03/12/2021	Neutra	20
+NEOE3	Neoenergia	Serviços de utilidade pública	3	03/12/2021	Compra	21
+AESB3	AES Brasil	Serviços de utilidade pública	3	03/12/2021	Neutra	18
+TRPL4	CTEEP	Serviços de utilidade pública	3	03/12/2021	Neutra	30
+BOAS3	Boa Vista Serviços	Serviços bancários e financeiros	3	03/12/2021	Neutra	 - 
+B3SA3	B3	Serviços bancários e financeiros	3	03/12/2021	Compra	27
+CIEL3	Cielo	Serviços bancários e financeiros	3	03/12/2021	Compra	 - 
+DOTZ3	Dotz	Serviços bancários e financeiros	3	03/12/2021	Compra	21
+CASH3	Meliuz	Serviços bancários e financeiros	3	03/12/2021	Compra	 - 
+AERI3	Aeris Energy	Indústria	3	03/12/2021	Neutra	10
+EMBR3	Embraer	Transporte e Logística - Bens de Capital	3	03/12/2021	Sob Revisão	 - 
+TASA4	Taurus	Indústria	3	03/12/2021	Compra	32
+FRAS3	Fras-Le	Indústria	3	03/12/2021	Neutra	17
+LEVE3	MAHLE Metal Leve	Indústria	3	03/12/2021	Neutra	 - 
+MYPK3	Iochpe-Maxion	Indústria	3	03/12/2021	Compra	22
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	3	03/12/2021	Neutra	3
+RAPT4	Randon	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	25
+ROMI3	Indústrias Romi	Indústria	3	03/12/2021	Compra	23
+PRNR3	Priner	Indústria	3	03/12/2021	Sob Revisão	 - 
+TUPY3	Tupy	Indústria	3	03/12/2021	Compra	32
+WEGE3	WEG	Indústria	3	03/12/2021	Compra	52
+BRKM5	Braskem	Indústria	3	03/12/2021	Neutra	45
+ARML3	Armac Locacao Logistica e Servicos	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	32
+LCAM3	Unidas	Transporte e Logística - Bens de Capital	3	03/12/2021	Neutra	29
+MOVI3	Movida	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	31
+RENT3	Localiza	Transporte e Logística - Bens de Capital	3	03/12/2021	Neutra	64
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	20
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	7
+JSLG3	JSL	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	14
+LOGN3	Log-In	Transporte e Logística - Bens de Capital	3	03/12/2021	Neutra	27
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	30
+SIMH3	Simpar	Serviços bancários e financeiros	3	03/12/2021	Compra	23
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	11
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	25
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	3	03/12/2021	Compra	25
+PTBL3	Portobello	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	13
+BRAP4	Bradespar	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Compra	72
+CBAV3	Companhia Brasileira de Alumínio	Indústria	3	03/12/2021	Neutra	14
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Compra	43
+CMIN3	CSN Mineração	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Compra	9
+FESA4	Ferbasa	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Venda	45
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Compra	40
+GOAU4	Metalúrgica Gerdau	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Compra	20
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Compra	21
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Compra	112
+VBBR3	Vibra Energia	Petróleo, Gás e Petroquímicos	3	03/12/2021	Compra	36
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	3	03/12/2021	Neutra	16
+OPCT3	Oceanpact	Petróleo, Gás e Petroquímicos	3	03/12/2021	Compra	7
+PETR3	Petrobras	Petróleo, Gás e Petroquímicos	3	03/12/2021	Compra	35
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	3	03/12/2021	Compra	34
+RECV3	PetroRecôncavo	Petróleo, Gás e Petroquímicos	3	03/12/2021	Compra	24
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	3	03/12/2021	Compra	 - 
+RAIZ4	Raizen S.A.	Petróleo, Gás e Petroquímicos	3	03/12/2021	Compra	10
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	3	03/12/2021	Compra	25
+RRRP3	3R Petroleum	Petróleo, Gás e Petroquímicos	3	03/12/2021	Restrito	 - 
+RANI3	Irani	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Compra	11
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Compra	34
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	3	03/12/2021	Venda	52
+ALPK3	Estapar	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	36
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	45
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	3	03/12/2021	Compra	12
+CSMG3	Copasa	Serviços de utilidade pública	3	03/12/2021	Neutra	20
+SBSP3	Sabesp	Serviços de utilidade pública	3	03/12/2021	Compra	47
+SAPR11	Sanepar	Serviços de utilidade pública	3	03/12/2021	Neutra	30
+AALR3	Alliar	Saúde e Educação	3	03/12/2021	Neutra	18
+BLAU3	Blau Framacêutica	Saúde e Educação	3	03/12/2021	Compra	59
+DMVF3	d1000	Bens de Consumo e Varejo	3	03/12/2021	Compra	17
+FLRY3	Fleury	Saúde e Educação	3	03/12/2021	Compra	28
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	3	03/12/2021	Compra	98
+HAPV3	Hapvida	Saúde e Educação	3	03/12/2021	Neutra	17
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	3	03/12/2021	Compra	49
+ODPV3	Odontoprev	Saúde e Educação	3	03/12/2021	Neutra	14
+PARD3	Hermes Pardini	Saúde e Educação	3	03/12/2021	Compra	34
+MATD3	Mater Dei	Saúde e Educação	3	03/12/2021	Compra	24
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	3	03/12/2021	Compra	40
+PFRM3	Profarma	Saúde e Educação	3	03/12/2021	Compra	11
+PGMN3	Pague Menos	Saúde e Educação	3	03/12/2021	Compra	20
+PNVL3	Dimed	Saúde e Educação	3	03/12/2021	Compra	35
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	3	03/12/2021	Neutra	32
+RDOR3	Rede d or	Saúde e Educação	3	03/12/2021	Compra	86
+SULA11	Sul América	Saúde e Educação	3	03/12/2021	Compra	38
+BBSE3	BB Seguridade	Serviços bancários e financeiros	3	03/12/2021	Compra	30
+PSSA3	Porto Seguro	Serviços bancários e financeiros	3	03/12/2021	Compra	35
+NINJ3	GetNinjas	Serviços	3	03/12/2021	Neutra	 - 
+GGPS3	GPS Serviços	Serviços	3	03/12/2021	Compra	23
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	32
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	11
+IGTI11	Iguatemi S.A.	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	290
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	3	03/12/2021	Compra	26
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	28
+CLSA3	ClearSale	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	30
+CARD3	CSU CardSystem	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Neutra	28
+ELMD3	Eletromidia	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	21
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	28
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Neutra	31
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	42
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	18
+NGRD3	Neogrid	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	9
+POSI3	Positivo Tecnologia	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	15
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	34
+TRAD3	Tc Traders Club	Serviços bancários e financeiros	3	03/12/2021	Compra	14
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	47
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Neutra	9
+BRIT3	Brisanet Participacoes	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Neutra	11
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	29
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	11
+TIMS3	TIM	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	19
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	3	03/12/2021	Compra	58
+AMBP3	Ambipar	Bens de Consumo e Varejo	3	03/12/2021	Neutra	46
+ORVR3	Orizon	Serviços de utilidade pública	3	03/12/2021	Compra	30
+ARZZ3	Arezzo & Co	Bens de Consumo e Varejo	3	03/12/2021	Compra	112
+ASAI3	Assaí	Bens de Consumo e Varejo	3	03/12/2021	Compra	26
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	3	03/12/2021	Compra	73
+BKBR3	BK Brasil	Bens de Consumo e Varejo	3	03/12/2021	Compra	14
+CEAB3	C&A	Bens de Consumo e Varejo	3	03/12/2021	Compra	10
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	3	03/12/2021	Compra	49
+CRFB3	Carrefour	Bens de Consumo e Varejo	3	03/12/2021	Compra	31
+CVCB3	CVC	Bens de Consumo e Varejo	3	03/12/2021	Compra	31
+ENJU3	Enjoei	Bens de Consumo e Varejo	3	03/12/2021	Compra	8
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	3	03/12/2021	Compra	22
+PCAR3	GPA	Bens de Consumo e Varejo	3	03/12/2021	Compra	53
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	3	03/12/2021	Compra	14
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	3	03/12/2021	Compra	23
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	3	03/12/2021	Compra	12
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	3	03/12/2021	Compra	26
+LREN3	Lojas Renner	Bens de Consumo e Varejo	3	03/12/2021	Compra	60
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	3	03/12/2021	Neutra	18
+MBLY3	Mobly	Bens de Consumo e Varejo	3	03/12/2021	Compra	12
+MOSI3	Mosaico	Bens de Consumo e Varejo	3	03/12/2021	Neutra	23
+NTCO3	Natura	Bens de Consumo e Varejo	3	03/12/2021	Compra	65
+PETZ3	Petz	Bens de Consumo e Varejo	3	03/12/2021	Compra	30
+SMFT3	Smartfit	Saúde e Educação	3	03/12/2021	Compra	33
+TFCO4	Track & Field	Bens de Consumo e Varejo	3	03/12/2021	Neutra	19
+VULC3	Vulcabras Azaleia	Bens de Consumo e Varejo	3	03/12/2021	Compra	13
+VIVA3	Vivara	Bens de Consumo e Varejo	3	03/12/2021	Compra	41
+VIIA3	Via	Bens de Consumo e Varejo	3	03/12/2021	Compra	14
+WEST3	Westwing	Bens de Consumo e Varejo	3	03/12/2021	Compra	11
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	1	05/12/2021	Compra	22
+IGTI11	Iguatemi S.A.	Propriedades Comerciais e Construção Civil	4	06/12/2021	Neutra	249
+AZUL4	Azul	Transporte e Logística - Bens de Capital	1	06/12/2021	Compra	41
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	1	06/12/2021	Compra	20
+ITUB4	Itaú Unibanco	Serviços bancários e financeiros	2	06/12/2021	Compra	31
+BBDC4	Bradesco	Serviços bancários e financeiros	2	06/12/2021	Compra	29
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	2	06/12/2021	Neutra	39
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	2	06/12/2021	Neutra	44
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	2	06/12/2021	Compra	21
+BIDI11	Banco Inter	Serviços bancários e financeiros	2	06/12/2021	Compra	65
+BRSR6	Banrisul	Serviços bancários e financeiros	2	06/12/2021	Neutra	13
+B3SA3	B3	Serviços bancários e financeiros	2	06/12/2021	Compra	18
+CIEL3	Cielo	Serviços bancários e financeiros	2	06/12/2021	Neutra	3
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	2	06/12/2021	Neutra	5
+BBSE3	BB Seguridade	Serviços bancários e financeiros	2	06/12/2021	Neutra	26
+WIZS3	WIZ	Serviços bancários e financeiros	2	06/12/2021	Compra	12
+PSSA3	Porto Seguro	Serviços bancários e financeiros	2	06/12/2021	Compra	32
+CASH3	Meliuz	Serviços bancários e financeiros	2	06/12/2021	Compra	6
+PAGS34	PagSeguro	Serviços bancários e financeiros	2	06/12/2021	Compra	59
+DOTZ3	Dotz	Serviços bancários e financeiros	2	06/12/2021	Compra	13
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	2	06/12/2021	Compra	26
+G2DI33	G2D Investments	Serviços bancários e financeiros	2	06/12/2021	Compra	11
+GETT11	Getnet	Serviços bancários e financeiros	2	06/12/2021	Neutra	9
+CVCB3	CVC	Bens de Consumo e Varejo	2	06/12/2021	Compra	33
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	2	06/12/2021	Compra	26
+NTCO3	Natura	Bens de Consumo e Varejo	2	06/12/2021	Compra	70
+VIIA3	Via	Bens de Consumo e Varejo	2	06/12/2021	Compra	21
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	2	06/12/2021	Compra	46
+LREN3	Lojas Renner	Bens de Consumo e Varejo	2	06/12/2021	Compra	56
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	2	06/12/2021	Compra	45
+PCAR3	GPA	Bens de Consumo e Varejo	2	06/12/2021	Compra	47
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	2	06/12/2021	Compra	31
+CRFB3	Carrefour	Bens de Consumo e Varejo	2	06/12/2021	Compra	27
+BKBR3	BK Brasil	Bens de Consumo e Varejo	2	06/12/2021	Compra	13
+AMAR3	Lojas Marisa	Bens de Consumo e Varejo	2	06/12/2021	Neutra	10
+CEAB3	C&A	Bens de Consumo e Varejo	2	06/12/2021	Compra	18
+POSI3	Positivo Tecnologia	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	15
+ARZZ3	Arezzo & Co	Bens de Consumo e Varejo	2	06/12/2021	Compra	116
+PNVL3	Dimed	Saúde e Educação	2	06/12/2021	Compra	34
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	2	06/12/2021	Compra	19
+PETZ3	Petz	Bens de Consumo e Varejo	2	06/12/2021	Compra	32
+ENJU3	Enjoei	Bens de Consumo e Varejo	2	06/12/2021	Compra	18
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	2	06/12/2021	Compra	22
+TFCO4	Track & Field	Bens de Consumo e Varejo	2	06/12/2021	Compra	20
+MOSI3	Mosaico	Bens de Consumo e Varejo	2	06/12/2021	Compra	34
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	2	06/12/2021	Compra	13
+WEST3	Westwing	Bens de Consumo e Varejo	2	06/12/2021	Compra	22
+ASAI3	Assaí	Bens de Consumo e Varejo	2	06/12/2021	Compra	21
+NINJ3	GetNinjas	Serviços	2	06/12/2021	Compra	40
+ALLD3	Allied	Bens de Consumo e Varejo	2	06/12/2021	Compra	34
+SMFT3	Smartfit	Saúde e Educação	2	06/12/2021	Compra	33
+VULC3	Vulcabras Azaleia	Bens de Consumo e Varejo	2	06/12/2021	Compra	12
+MEAL3	IMC	Bens de Consumo e Varejo	2	06/12/2021	Compra	13
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	2	06/12/2021	Compra	23
+TRAD3	Tc Traders Club	Serviços bancários e financeiros	2	06/12/2021	Compra	14
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	47
+LPSB3	Lopes Brasil	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	7
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	37
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	23
+EVEN3	Even	Propriedades Comerciais e Construção Civil	2	06/12/2021	Neutra	15
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	18
+HBOR3	Helbor	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	14
+TCSA3	Tecnisa	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	15
+TRIS3	Trisul	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	15
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	12
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	11
+CURY3	Cury	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	16
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	40
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	11
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	13
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	20
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	14
+IGTI11	Iguatemi S.A.	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	319
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	2	06/12/2021	Neutra	31
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	41
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	15
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	44
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	2	06/12/2021	Neutra	42
+SYNE3	Cyrela Commercial Properties	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	20
+HBRE3	HBR Realty	Propriedades Comerciais e Construção Civil	2	06/12/2021	Compra	35
+CPFE3	CPFL Energia	Serviços de utilidade pública	2	06/12/2021	Compra	37
+EQTL3	Equatorial	Serviços de utilidade pública	2	06/12/2021	Compra	28
+ENGI11	Energisa	Serviços de utilidade pública	2	06/12/2021	Compra	60
+LIGT3	Light S/A	Serviços de utilidade pública	2	06/12/2021	Compra	18
+CMIG4	Cemig	Serviços de utilidade pública	2	06/12/2021	Compra	14
+CPLE6	Copel	Serviços de utilidade pública	2	06/12/2021	Compra	7
+ENBR3	EDP Brasil	Serviços de utilidade pública	2	06/12/2021	Compra	24
+AESB3	AES Brasil	Serviços de utilidade pública	2	06/12/2021	Neutra	17
+CESP6	Cesp	Serviços de utilidade pública	2	06/12/2021	Compra	32
+EGIE3	Engie Brasil	Serviços de utilidade pública	2	06/12/2021	Neutra	46
+ENEV3	Eneva	Serviços de utilidade pública	2	06/12/2021	Compra	18
+OMGE3	Omega Geração	Serviços de utilidade pública	2	06/12/2021	Compra	44
+ELET6	Eletrobras	Serviços de utilidade pública	2	06/12/2021	Compra	68
+ALUP11	Alupar	Serviços de utilidade pública	2	06/12/2021	Compra	30
+TAEE11	Taesa	Serviços de utilidade pública	2	06/12/2021	Neutra	33
+TRPL4	CTEEP	Serviços de utilidade pública	2	06/12/2021	Neutra	26
+CSMG3	Copasa	Serviços de utilidade pública	2	06/12/2021	Compra	19
+SBSP3	Sabesp	Serviços de utilidade pública	2	06/12/2021	Compra	52
+SAPR11	Sanepar	Serviços de utilidade pública	2	06/12/2021	Compra	30
+ELET6	Eletrobras	Serviços de utilidade pública	2	06/12/2021	Compra	68
+ORVR3	Orizon	Serviços de utilidade pública	2	06/12/2021	Compra	30
+AMBP3	Ambipar	Bens de Consumo e Varejo	2	06/12/2021	Compra	57
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	2	06/12/2021	Compra	124
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	2	06/12/2021	Compra	43
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	2	06/12/2021	Compra	43
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	2	06/12/2021	Compra	24
+CMIN3	CSN Mineração	Mineração, Siderurgia, Papel e Celulose	2	06/12/2021	Compra	10
+CBAV3	Companhia Brasileira de Alumínio	Indústria	2	06/12/2021	Compra	19
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	2	06/12/2021	Compra	92
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	2	06/12/2021	Compra	39
+DXCO3	Duratex S.A.	Mineração, Siderurgia, Papel e Celulose	2	06/12/2021	Compra	23
+RANI3	Irani	Mineração, Siderurgia, Papel e Celulose	2	06/12/2021	Compra	11
+QUAL3	Qualicorp	Saúde e Educação	2	06/12/2021	Neutra	21
+ODPV3	Odontoprev	Saúde e Educação	2	06/12/2021	Neutra	14
+HAPV3	Hapvida	Saúde e Educação	2	06/12/2021	Compra	19
+FLRY3	Fleury	Saúde e Educação	2	06/12/2021	Neutra	20
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	2	06/12/2021	Compra	93
+RDOR3	Rede d or	Saúde e Educação	2	06/12/2021	Compra	73
+AALR3	Alliar	Saúde e Educação	2	06/12/2021	Neutra	11
+COGN3	Cogna	Saúde e Educação	2	06/12/2021	Neutra	3
+YDUQ3	YDUQS	Saúde e Educação	2	06/12/2021	Neutra	25
+SEER3	Ser Educacional	Saúde e Educação	2	06/12/2021	Neutra	19
+ANIM3	Anima Educação	Saúde e Educação	2	06/12/2021	Compra	15
+CSED3	Cruzeiro do Sul	Saúde e Educação	2	06/12/2021	Compra	18
+BLAU3	Blau Framacêutica	Saúde e Educação	2	06/12/2021	Compra	49
+MATD3	Mater Dei	Saúde e Educação	2	06/12/2021	Compra	23
+DASA3	Dasa	Saúde e Educação	2	06/12/2021	Compra	57
+VVEO3	CM Hospitalar	Saúde e Educação	2	06/12/2021	Compra	33
+SULA11	Sul América	Saúde e Educação	2	06/12/2021	Compra	38
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	2	06/12/2021	Neutra	42
+VBBR3	Vibra Energia	Petróleo, Gás e Petroquímicos	2	06/12/2021	Compra	35
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	2	06/12/2021	Neutra	17
+RRRP3	3R Petroleum	Petróleo, Gás e Petroquímicos	2	06/12/2021	Compra	90
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	2	06/12/2021	Compra	47
+BRKM5	Braskem	Indústria	2	06/12/2021	Compra	68
+SLCE3	SLC Agricola	Agronegócio	2	06/12/2021	Compra	66
+SMTO3	São Martinho	Agronegócio	2	06/12/2021	Compra	51
+AGRO3	Brasil Agro	Agronegócio	2	06/12/2021	Compra	43
+CSAN3	Cosan	Agronegócio	2	06/12/2021	Compra	39
+JALL3	Jalles Machado	Agronegócio	2	06/12/2021	Compra	16
+RAIZ4	Raizen S.A.	Petróleo, Gás e Petroquímicos	2	06/12/2021	Compra	11
+TTEN3	Tres Tentos Agroindustrial	Agronegócio	2	06/12/2021	Compra	20
+BRFS3	BRF Foods	Alimentos e Bebidas	2	06/12/2021	Venda	25
+JBSS3	JBS	Alimentos e Bebidas	2	06/12/2021	Compra	45
+MRFG3	Marfrig	Alimentos e Bebidas	2	06/12/2021	Neutra	27
+BEEF3	Minerva Foods	Alimentos e Bebidas	2	06/12/2021	Neutra	12
+ABEV3	Ambev	Alimentos e Bebidas	2	06/12/2021	Neutra	18
+MDIA3	M Dias Branco	Alimentos e Bebidas	2	06/12/2021	Neutra	30
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	23
+RENT3	Localiza	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	75
+LCAM3	Unidas	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	36
+MOVI3	Movida	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	27
+SIMH3	Simpar	Serviços bancários e financeiros	2	06/12/2021	Compra	10
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	19
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	38
+GGPS3	GPS Serviços	Serviços	2	06/12/2021	Compra	23
+JSLG3	JSL	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	16
+ARML3	Armac Locacao Logistica e Servicos	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	30
+GOLL4	Gol	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	31
+AZUL4	Azul	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	47
+RAPT4	Randon	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	20
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	2	06/12/2021	Neutra	3
+MYPK3	Iochpe-Maxion	Indústria	2	06/12/2021	Neutra	16
+TUPY3	Tupy	Indústria	2	06/12/2021	Compra	21
+WEGE3	WEG	Indústria	2	06/12/2021	Neutra	45
+AERI3	Aeris Energy	Indústria	2	06/12/2021	Compra	11
+EMBR3	Embraer	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	28
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	45
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	34
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	23
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	28
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	30
+SHOW3	Time For Fun	Serviços de utilidade pública	2	06/12/2021	Compra	11
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Neutra	15
+TIMS3	TIM	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	20
+OIBR3	Oi	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	2
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	64
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	25
+LVTC3	Livetech Da Bahia	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	42
+CLSA3	ClearSale	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	36
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	14
+BRIT3	Brisanet Participacoes	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	16
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	2	06/12/2021	Compra	45
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	27
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	18
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	17
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	11
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	8
+PORT3	Wilson, Sons	Transporte e Logística - Bens de Capital	2	06/12/2021	Compra	70
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	10
+OFSA3	Ouro Fino	Agronegócio	5	06/12/2021	Compra	52
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	27
+SLCE3	SLC Agricola	Agronegócio	5	06/12/2021	Compra	55
+SMTO3	São Martinho	Agronegócio	5	06/12/2021	Compra	42
+SOJA3	Boa Safra	Agronegócio	5	06/12/2021	Compra	19
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	5	06/12/2021	Compra	24
+B3SA3	B3	Serviços bancários e financeiros	5	06/12/2021	Compra	22
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	5	06/12/2021	Compra	42
+BBDC4	Bradesco	Serviços bancários e financeiros	5	06/12/2021	Neutra	25
+BBSE3	BB Seguridade	Serviços bancários e financeiros	5	06/12/2021	Compra	32
+BOAS3	Boa Vista Serviços	Serviços bancários e financeiros	5	06/12/2021	Compra	16
+BIDI11	Banco Inter	Serviços bancários e financeiros	5	06/12/2021	Compra	77
+BPAC11	Banco BTG Pactual	Serviços bancários e financeiros	5	06/12/2021	Compra	34
+BPAN4	Banco Pan	Serviços bancários e financeiros	5	06/12/2021	Compra	25
+BRSR6	Banrisul	Serviços bancários e financeiros	5	06/12/2021	Neutra	15
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	5	06/12/2021	Compra	30
+CASH3	Meliuz	Serviços bancários e financeiros	5	06/12/2021	Compra	11
+CIEL3	Cielo	Serviços bancários e financeiros	5	06/12/2021	Neutra	5
+CXSE3	Caixa Seguridade	Serviços bancários e financeiros	5	06/12/2021	Compra	18
+DOTZ3	Dotz	Serviços bancários e financeiros	5	06/12/2021	Compra	22
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	5	06/12/2021	Sob Revisão	 - 
+MOSI3	Mosaico	Bens de Consumo e Varejo	5	06/12/2021	Neutra	13
+MODL11	Banco Modal	Serviços bancários e financeiros	5	06/12/2021	Neutra	20
+PAGS	Pag Seguro	Serviços bancários e financeiros	5	06/12/2021	Compra	70
+PAX	Patria Investments	Serviços bancários e financeiros	5	06/12/2021	Compra	21
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	5	06/12/2021	Neutra	41
+STNE	Stoneco Ltda	Serviços bancários e financeiros	5	06/12/2021	Compra	65
+VINP	Vinci Partners	Serviços bancários e financeiros	5	06/12/2021	Compra	18
+WIZS3	WIZ	Serviços bancários e financeiros	5	06/12/2021	Compra	23
+AMAR3	Lojas Marisa	Bens de Consumo e Varejo	5	06/12/2021	Sob Revisão	 - 
+ALLD3	Allied	Bens de Consumo e Varejo	5	06/12/2021	Compra	32
+ARCO	Arcos Dorados	Bens de Consumo e Varejo	5	06/12/2021	Compra	8
+ASAI3	Assaí	Bens de Consumo e Varejo	5	06/12/2021	Neutra	20
+BKBR3	BK Brasil	Bens de Consumo e Varejo	5	06/12/2021	Compra	13
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	5	06/12/2021	Compra	74
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	5	06/12/2021	Neutra	40
+CRFB3	Carrefour	Bens de Consumo e Varejo	5	06/12/2021	Compra	30
+CVCB3	CVC	Bens de Consumo e Varejo	5	06/12/2021	Sob Revisão	 - 
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	5	06/12/2021	Compra	22
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	5	06/12/2021	Compra	11
+GUAR3	Guararapes	Bens de Consumo e Varejo	5	06/12/2021	Compra	25
+HGTX3	Cia Henrig	Bens de Consumo e Varejo	5	06/12/2021	Sob Revisão	 - 
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	5	06/12/2021	Compra	41
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	5	06/12/2021	Compra	29
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	5	06/12/2021	Compra	25
+LREN3	Lojas Renner	Bens de Consumo e Varejo	5	06/12/2021	Compra	51
+MEAL3	IMC	Bens de Consumo e Varejo	5	06/12/2021	Neutra	5
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	5	06/12/2021	Compra	24
+MBLY3	Mobly	Bens de Consumo e Varejo	5	06/12/2021	Sob Revisão	 - 
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	15
+NTCO3	Natura	Bens de Consumo e Varejo	5	06/12/2021	Compra	40
+PCAR3	GPA	Bens de Consumo e Varejo	5	06/12/2021	Compra	39
+PGMN3	Pague Menos	Saúde e Educação	5	06/12/2021	Compra	16
+SMFT3	Smartfit	Saúde e Educação	5	06/12/2021	Compra	33
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	5	06/12/2021	Neutra	28
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	5	06/12/2021	Compra	20
+TFCO4	Track & Field	Bens de Consumo e Varejo	5	06/12/2021	Compra	18
+VIVA3	Vivara	Bens de Consumo e Varejo	5	06/12/2021	Compra	37
+VIIA3	Via	Bens de Consumo e Varejo	5	06/12/2021	Sob Revisão	 - 
+ABEV3	Ambev	Alimentos e Bebidas	5	06/12/2021	Neutra	19
+BEEF3	Minerva Foods	Alimentos e Bebidas	5	06/12/2021	Compra	17
+BRFS3	BRF Foods	Alimentos e Bebidas	5	06/12/2021	Neutra	25
+CAML3	Camil Alimentos	Alimentos e Bebidas	5	06/12/2021	Neutra	11
+JBSS3	JBS	Alimentos e Bebidas	5	06/12/2021	Compra	47
+MDIA3	M Dias Branco	Alimentos e Bebidas	5	06/12/2021	Neutra	30
+MRFG3	Marfrig	Alimentos e Bebidas	5	06/12/2021	Compra	26
+AFYA	Afya Ltd	Saúde e Educação	5	06/12/2021	Compra	38
+ANIM3	Anima Educação	Saúde e Educação	5	06/12/2021	Compra	19
+ARCE	Arco Platform Ltd	Saúde e Educação	5	06/12/2021	Compra	47
+COGN3	Cogna	Saúde e Educação	5	06/12/2021	Neutra	6
+SEER3	Ser Educacional	Saúde e Educação	5	06/12/2021	Neutra	22
+VTRU	Vitru	Saúde e Educação	5	06/12/2021	Compra	24
+YDUQ3	YDUQS	Saúde e Educação	5	06/12/2021	Neutra	45
+AALR3	Alliar	Saúde e Educação	5	06/12/2021	Neutra	15
+BLAU3	Blau Framacêutica	Saúde e Educação	5	06/12/2021	Compra	68
+DASA3	Dasa	Saúde e Educação	5	06/12/2021	Compra	81
+FLRY3	Fleury	Saúde e Educação	5	06/12/2021	Neutra	29
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	5	06/12/2021	Compra	84
+HAPV3	Hapvida	Saúde e Educação	5	06/12/2021	Compra	17
+KRSA3	Kora Saude Participacoes	Saúde e Educação	5	06/12/2021	Compra	8
+MATD3	Mater Dei	Saúde e Educação	5	06/12/2021	Compra	23
+ODPV3	Odontoprev	Saúde e Educação	5	06/12/2021	Neutra	14
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	5	06/12/2021	Compra	18
+PARD3	Hermes Pardini	Saúde e Educação	5	06/12/2021	Neutra	26
+PNVL3	Dimed	Saúde e Educação	5	06/12/2021	Compra	20
+QUAL3	Qualicorp	Saúde e Educação	5	06/12/2021	Compra	39
+RDOR3	Rede d or	Saúde e Educação	5	06/12/2021	Compra	67
+VVEO3	CM Hospitalar	Saúde e Educação	5	06/12/2021	Compra	35
+BRDT3	BR Distribuidora	Petróleo, Gás e Petroquímicos	5	06/12/2021	Compra	34
+CSAN3	Cosan	Agronegócio	5	06/12/2021	Compra	30
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	5	06/12/2021	Neutra	13
+OPCT3	Oceanpact	Petróleo, Gás e Petroquímicos	5	06/12/2021	Compra	9
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	5	06/12/2021	Compra	38
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	5	06/12/2021	Compra	22
+RECV3	PetroRecôncavo	Petróleo, Gás e Petroquímicos	5	06/12/2021	Compra	25
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	5	06/12/2021	Compra	26
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	36
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	11
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	5	06/12/2021	Neutra	10
+SYNE3	Cyrela Commercial Properties	Propriedades Comerciais e Construção Civil	5	06/12/2021	Neutra	17
+CURY3	Cury	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	15
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	28
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	21
+EVEN3	Even	Propriedades Comerciais e Construção Civil	5	06/12/2021	Neutra	14
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	33
+HBOR3	Helbor	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	14
+IGTA3	Iguatemi	Propriedades Comerciais e Construção Civil	5	06/12/2021	Neutra	322
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	8
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	36
+LPSB3	Lopes Brasil	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	4
+MDNE3	Moura Dubeux	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	18
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	8
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	21
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	5	06/12/2021	Neutra	19
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	31
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	9
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	5	06/12/2021	Neutra	44
+TCSA3	Tecnisa	Propriedades Comerciais e Construção Civil	5	06/12/2021	Venda	9
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	5	06/12/2021	Compra	29
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	5	06/12/2021	Neutra	72
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	5	06/12/2021	Neutra	25
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	5	06/12/2021	Compra	34
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	5	06/12/2021	Compra	28
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	5	06/12/2021	Compra	74
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	5	06/12/2021	Compra	20
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	5	06/12/2021	Compra	16
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	5	06/12/2021	Compra	90
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	29
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	40
+ELMD3	Eletromidia	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	25
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	14
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	28
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	28
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	19
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	36
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	39
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	43
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Compra	45
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	5	06/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	5	06/12/2021	Neutra	41
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	17
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	16
+GGPS3	GPS Serviços	Serviços	5	06/12/2021	Compra	25
+GOLL4	Gol	Transporte e Logística - Bens de Capital	5	06/12/2021	Neutra	25
+JSLG3	JSL	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	15
+LOGN3	Log-In	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	22
+MOVI3	Movida	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	23
+MYPK3	Iochpe-Maxion	Indústria	5	06/12/2021	Compra	20
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	5	06/12/2021	Neutra	3
+RAPT4	Randon	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	19
+SIMH3	Simpar	Serviços bancários e financeiros	5	06/12/2021	Compra	13
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	9
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	22
+TUPY3	Tupy	Indústria	5	06/12/2021	Compra	27
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	5	06/12/2021	Compra	19
+WEGE3	WEG	Indústria	5	06/12/2021	Neutra	46
+ALUP11	Alupar	Serviços de utilidade pública	5	06/12/2021	Compra	35
+CMIG4	Cemig	Serviços de utilidade pública	5	06/12/2021	Neutra	13
+CPFE3	CPFL Energia	Serviços de utilidade pública	5	06/12/2021	Compra	37
+CPLE6	Copel	Serviços de utilidade pública	5	06/12/2021	Compra	7
+CSMG3	Copasa	Serviços de utilidade pública	5	06/12/2021	Neutra	19
+EGIE3	Engie Brasil	Serviços de utilidade pública	5	06/12/2021	Compra	44
+ELET3	Eletrobras	Serviços de utilidade pública	5	06/12/2021	Compra	53
+ENEV3	Eneva	Serviços de utilidade pública	5	06/12/2021	Compra	19
+ENGI11	Energisa	Serviços de utilidade pública	5	06/12/2021	Compra	65
+EQTL3	Equatorial	Serviços de utilidade pública	5	06/12/2021	Compra	29
+LIGT3	Light S/A	Serviços de utilidade pública	5	06/12/2021	Neutra	21
+NEOE3	Neoenergia	Serviços de utilidade pública	5	06/12/2021	Compra	27
+OMGE3	Omega Geração	Serviços de utilidade pública	5	06/12/2021	Compra	38
+SAPR11	Sanepar	Serviços de utilidade pública	5	06/12/2021	Neutra	40
+SBSP3	Sabesp	Serviços de utilidade pública	5	06/12/2021	Compra	65
+TAEE11	Taesa	Serviços de utilidade pública	5	06/12/2021	Venda	37
+TRPL4	CTEEP	Serviços de utilidade pública	5	06/12/2021	Neutra	28
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	4	07/12/2021	Compra	19
+BMGB4	Banco BMG	Serviços bancários e financeiros	4	07/12/2021	Neutra	4
+AMAR3	Lojas Marisa	Bens de Consumo e Varejo	4	07/12/2021	Sob Revisão	 - 
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	4	07/12/2021	Sob Revisão	 - 
+MYPK3	Iochpe-Maxion	Indústria	1	07/12/2021	Compra	20
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	1	07/12/2021	Compra	16
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	1	08/12/2021	Compra	40
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	1	08/12/2021	Compra	45
+WEGE3	WEG	Indústria	4	08/12/2021	Neutra	36
+LIGT3	Light S/A	Serviços de utilidade pública	4	08/12/2021	Compra	17
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	10
+OFSA3	Ouro Fino	Agronegócio	5	09/12/2021	Compra	52
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	27
+SLCE3	SLC Agricola	Agronegócio	5	09/12/2021	Compra	55
+SMTO3	São Martinho	Agronegócio	5	09/12/2021	Compra	42
+SOJA3	Boa Safra	Agronegócio	5	09/12/2021	Compra	19
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	5	09/12/2021	Compra	24
+B3SA3	B3	Serviços bancários e financeiros	5	09/12/2021	Compra	22
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	5	09/12/2021	Compra	42
+BBDC4	Bradesco	Serviços bancários e financeiros	5	09/12/2021	Neutra	25
+BBSE3	BB Seguridade	Serviços bancários e financeiros	5	09/12/2021	Compra	32
+BOAS3	Boa Vista Serviços	Serviços bancários e financeiros	5	09/12/2021	Compra	16
+BIDI11	Banco Inter	Serviços bancários e financeiros	5	09/12/2021	Compra	77
+BPAC11	Banco BTG Pactual	Serviços bancários e financeiros	5	09/12/2021	Compra	34
+BPAN4	Banco Pan	Serviços bancários e financeiros	5	09/12/2021	Compra	25
+BRSR6	Banrisul	Serviços bancários e financeiros	5	09/12/2021	Neutra	15
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	5	09/12/2021	Compra	30
+CASH3	Meliuz	Serviços bancários e financeiros	5	09/12/2021	Compra	11
+CIEL3	Cielo	Serviços bancários e financeiros	5	09/12/2021	Neutra	5
+CXSE3	Caixa Seguridade	Serviços bancários e financeiros	5	09/12/2021	Compra	18
+DOTZ3	Dotz	Serviços bancários e financeiros	5	09/12/2021	Compra	22
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	5	09/12/2021	Sob Revisão	 - 
+MOSI3	Mosaico	Bens de Consumo e Varejo	5	09/12/2021	Neutra	13
+MODL11	Banco Modal	Serviços bancários e financeiros	5	09/12/2021	Neutra	20
+PAGS	Pag Seguro	Serviços bancários e financeiros	5	09/12/2021	Compra	70
+PAX	Patria Investments	Serviços bancários e financeiros	5	09/12/2021	Compra	21
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	5	09/12/2021	Neutra	41
+STNE	Stoneco Ltda	Serviços bancários e financeiros	5	09/12/2021	Compra	65
+VINP	Vinci Partners	Serviços bancários e financeiros	5	09/12/2021	Compra	18
+WIZS3	WIZ	Serviços bancários e financeiros	5	09/12/2021	Compra	23
+AMAR3	Lojas Marisa	Bens de Consumo e Varejo	5	09/12/2021	Sob Revisão	 - 
+ALLD3	Allied	Bens de Consumo e Varejo	5	09/12/2021	Compra	32
+ARCO	Arcos Dorados	Bens de Consumo e Varejo	5	09/12/2021	Compra	8
+ASAI3	Assaí	Bens de Consumo e Varejo	5	09/12/2021	Neutra	20
+BKBR3	BK Brasil	Bens de Consumo e Varejo	5	09/12/2021	Compra	12
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	5	09/12/2021	Compra	74
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	5	09/12/2021	Neutra	40
+CRFB3	Carrefour	Bens de Consumo e Varejo	5	09/12/2021	Compra	30
+CVCB3	CVC	Bens de Consumo e Varejo	5	09/12/2021	Sob Revisão	 - 
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	5	09/12/2021	Compra	22
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	5	09/12/2021	Compra	11
+GUAR3	Guararapes	Bens de Consumo e Varejo	5	09/12/2021	Compra	25
+HGTX3	Cia Henrig	Bens de Consumo e Varejo	5	09/12/2021	Sob Revisão	 - 
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	5	09/12/2021	Compra	41
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	5	09/12/2021	Compra	29
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	5	09/12/2021	Compra	25
+LREN3	Lojas Renner	Bens de Consumo e Varejo	5	09/12/2021	Compra	51
+MEAL3	IMC	Bens de Consumo e Varejo	5	09/12/2021	Neutra	5
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	5	09/12/2021	Compra	24
+MBLY3	Mobly	Bens de Consumo e Varejo	5	09/12/2021	Sob Revisão	 - 
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	15
+NTCO3	Natura	Bens de Consumo e Varejo	5	09/12/2021	Compra	40
+PCAR3	GPA	Bens de Consumo e Varejo	5	09/12/2021	Compra	39
+PGMN3	Pague Menos	Saúde e Educação	5	09/12/2021	Compra	16
+SMFT3	Smartfit	Saúde e Educação	5	09/12/2021	Compra	33
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	5	09/12/2021	Neutra	28
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	5	09/12/2021	Compra	20
+TFCO4	Track & Field	Bens de Consumo e Varejo	5	09/12/2021	Compra	18
+VIVA3	Vivara	Bens de Consumo e Varejo	5	09/12/2021	Compra	37
+VIIA3	Via	Bens de Consumo e Varejo	5	09/12/2021	Sob Revisão	 - 
+ABEV3	Ambev	Alimentos e Bebidas	5	09/12/2021	Neutra	19
+BEEF3	Minerva Foods	Alimentos e Bebidas	5	09/12/2021	Compra	17
+BRFS3	BRF Foods	Alimentos e Bebidas	5	09/12/2021	Neutra	25
+CAML3	Camil Alimentos	Alimentos e Bebidas	5	09/12/2021	Neutra	11
+JBSS3	JBS	Alimentos e Bebidas	5	09/12/2021	Compra	47
+MDIA3	M Dias Branco	Alimentos e Bebidas	5	09/12/2021	Neutra	30
+MRFG3	Marfrig	Alimentos e Bebidas	5	09/12/2021	Compra	26
+AFYA	Afya Ltd	Saúde e Educação	5	09/12/2021	Compra	38
+ANIM3	Anima Educação	Saúde e Educação	5	09/12/2021	Compra	19
+ARCE	Arco Platform Ltd	Saúde e Educação	5	09/12/2021	Compra	47
+COGN3	Cogna	Saúde e Educação	5	09/12/2021	Neutra	6
+SEER3	Ser Educacional	Saúde e Educação	5	09/12/2021	Neutra	22
+VTRU	Vitru	Saúde e Educação	5	09/12/2021	Compra	24
+YDUQ3	YDUQS	Saúde e Educação	5	09/12/2021	Neutra	45
+AALR3	Alliar	Saúde e Educação	5	09/12/2021	Neutra	15
+BLAU3	Blau Framacêutica	Saúde e Educação	5	09/12/2021	Compra	68
+DASA3	Dasa	Saúde e Educação	5	09/12/2021	Compra	81
+FLRY3	Fleury	Saúde e Educação	5	09/12/2021	Neutra	29
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	5	09/12/2021	Compra	84
+HAPV3	Hapvida	Saúde e Educação	5	09/12/2021	Compra	17
+KRSA3	Kora Saude Participacoes	Saúde e Educação	5	09/12/2021	Compra	8
+MATD3	Mater Dei	Saúde e Educação	5	09/12/2021	Compra	23
+ODPV3	Odontoprev	Saúde e Educação	5	09/12/2021	Neutra	14
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	5	09/12/2021	Compra	18
+PARD3	Hermes Pardini	Saúde e Educação	5	09/12/2021	Neutra	26
+PNVL3	Dimed	Saúde e Educação	5	09/12/2021	Compra	20
+QUAL3	Qualicorp	Saúde e Educação	5	09/12/2021	Compra	39
+RDOR3	Rede d or	Saúde e Educação	5	09/12/2021	Compra	67
+VVEO3	CM Hospitalar	Saúde e Educação	5	09/12/2021	Compra	35
+BRDT3	BR Distribuidora	Petróleo, Gás e Petroquímicos	5	09/12/2021	Compra	34
+CSAN3	Cosan	Agronegócio	5	09/12/2021	Compra	30
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	5	09/12/2021	Neutra	13
+OPCT3	Oceanpact	Petróleo, Gás e Petroquímicos	5	09/12/2021	Compra	9
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	5	09/12/2021	Compra	38
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	5	09/12/2021	Compra	22
+RECV3	PetroRecôncavo	Petróleo, Gás e Petroquímicos	5	09/12/2021	Compra	25
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	5	09/12/2021	Compra	26
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	36
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	11
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	5	09/12/2021	Neutra	10
+SYNE3	Cyrela Commercial Properties	Propriedades Comerciais e Construção Civil	5	09/12/2021	Neutra	17
+CURY3	Cury	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	15
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	28
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	21
+EVEN3	Even	Propriedades Comerciais e Construção Civil	5	09/12/2021	Neutra	14
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	33
+HBOR3	Helbor	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	14
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	8
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	36
+LPSB3	Lopes Brasil	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	4
+MDNE3	Moura Dubeux	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	18
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	8
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	21
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	5	09/12/2021	Neutra	19
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	31
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	9
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	5	09/12/2021	Neutra	44
+TCSA3	Tecnisa	Propriedades Comerciais e Construção Civil	5	09/12/2021	Venda	9
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	5	09/12/2021	Compra	29
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	5	09/12/2021	Neutra	72
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	5	09/12/2021	Neutra	25
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	5	09/12/2021	Compra	34
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	5	09/12/2021	Compra	28
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	5	09/12/2021	Compra	74
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	5	09/12/2021	Compra	20
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	5	09/12/2021	Compra	16
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	5	09/12/2021	Compra	90
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	29
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	40
+ELMD3	Eletromidia	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	25
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	14
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	28
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	28
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	19
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	36
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	39
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	43
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Compra	45
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	5	09/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	5	09/12/2021	Neutra	41
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	17
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	16
+GGPS3	GPS Serviços	Serviços	5	09/12/2021	Compra	25
+GOLL4	Gol	Transporte e Logística - Bens de Capital	5	09/12/2021	Neutra	25
+JSLG3	JSL	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	15
+LOGN3	Log-In	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	22
+MOVI3	Movida	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	23
+MYPK3	Iochpe-Maxion	Indústria	5	09/12/2021	Compra	20
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	5	09/12/2021	Neutra	3
+RAPT4	Randon	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	16
+SIMH3	Simpar	Serviços bancários e financeiros	5	09/12/2021	Compra	13
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	9
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	22
+TUPY3	Tupy	Indústria	5	09/12/2021	Compra	27
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	5	09/12/2021	Compra	19
+WEGE3	WEG	Indústria	5	09/12/2021	Neutra	46
+ALUP11	Alupar	Serviços de utilidade pública	5	09/12/2021	Compra	35
+AESB3	AES Brasil	Serviços de utilidade pública	5	09/12/2021	Compra	14
+CMIG4	Cemig	Serviços de utilidade pública	5	09/12/2021	Neutra	13
+CPFE3	CPFL Energia	Serviços de utilidade pública	5	09/12/2021	Compra	37
+CPLE6	Copel	Serviços de utilidade pública	5	09/12/2021	Compra	7
+CSMG3	Copasa	Serviços de utilidade pública	5	09/12/2021	Neutra	19
+EGIE3	Engie Brasil	Serviços de utilidade pública	5	09/12/2021	Compra	44
+ELET3	Eletrobras	Serviços de utilidade pública	5	09/12/2021	Compra	53
+ENEV3	Eneva	Serviços de utilidade pública	5	09/12/2021	Compra	19
+ENGI11	Energisa	Serviços de utilidade pública	5	09/12/2021	Compra	65
+EQTL3	Equatorial	Serviços de utilidade pública	5	09/12/2021	Compra	29
+LIGT3	Light S/A	Serviços de utilidade pública	5	09/12/2021	Neutra	21
+NEOE3	Neoenergia	Serviços de utilidade pública	5	09/12/2021	Compra	27
+OMGE3	Omega Geração	Serviços de utilidade pública	5	09/12/2021	Compra	38
+SAPR11	Sanepar	Serviços de utilidade pública	5	09/12/2021	Neutra	40
+SBSP3	Sabesp	Serviços de utilidade pública	5	09/12/2021	Compra	65
+TAEE11	Taesa	Serviços de utilidade pública	5	09/12/2021	Venda	37
+TRPL4	CTEEP	Serviços de utilidade pública	5	09/12/2021	Neutra	28
+ITUB4	Itaú Unibanco	Serviços bancários e financeiros	6	09/12/2021	Neutra	28
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	6	09/12/2021	Compra	52
+BRSR6	Banrisul	Serviços bancários e financeiros	6	09/12/2021	Compra	19
+BBDC4	Bradesco	Serviços bancários e financeiros	6	09/12/2021	Neutra	26
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	6	09/12/2021	Venda	36
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	6	09/12/2021	Compra	29
+BRFS3	BRF Foods	Alimentos e Bebidas	6	09/12/2021	Neutra	30
+JBSS3	JBS	Alimentos e Bebidas	6	09/12/2021	Compra	40
+ABEV3	Ambev	Alimentos e Bebidas	6	09/12/2021	Compra	20
+MRFG3	Marfrig	Alimentos e Bebidas	6	09/12/2021	Compra	24
+JALL3	Jalles Machado	Agronegócio	6	09/12/2021	Compra	14
+SMTO3	São Martinho	Agronegócio	6	09/12/2021	Compra	38
+SOJA3	Boa Safra	Agronegócio	6	09/12/2021	Compra	18
+AGRO3	Brasil Agro	Agronegócio	6	09/12/2021	Compra	33
+BEEF3	Minerva Foods	Alimentos e Bebidas	6	09/12/2021	Sob Revisão	 - 
+MDIA3	M Dias Branco	Alimentos e Bebidas	6	09/12/2021	Sob Revisão	 - 
+SLCE3	SLC Agricola	Agronegócio	6	09/12/2021	Sob Revisão	 - 
+CAML3	Camil Alimentos	Alimentos e Bebidas	6	09/12/2021	Sob Revisão	 - 
+WEGE3	WEG	Indústria	6	09/12/2021	Compra	50
+AERI3	Aeris Energy	Indústria	6	09/12/2021	Neutra	10
+RAPT4	Randon	Transporte e Logística - Bens de Capital	6	09/12/2021	Compra	18
+FRAS3	Fras-Le	Indústria	6	09/12/2021	Neutra	16
+TUPY3	Tupy	Indústria	6	09/12/2021	Compra	32
+MYPK3	Iochpe-Maxion	Indústria	6	09/12/2021	Compra	27
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	6	09/12/2021	Neutra	3
+EMBR3	Embraer	Transporte e Logística - Bens de Capital	6	09/12/2021	Sob Revisão	 - 
+LEVE3	MAHLE Metal Leve	Indústria	6	09/12/2021	Sob Revisão	 - 
+ANIM3	Anima Educação	Saúde e Educação	6	09/12/2021	Compra	15
+YDUQ3	YDUQS	Saúde e Educação	6	09/12/2021	Compra	51
+COGN3	Cogna	Saúde e Educação	6	09/12/2021	Neutra	5
+SEER3	Ser Educacional	Saúde e Educação	6	09/12/2021	Neutra	17
+CSED3	Cruzeiro do Sul	Saúde e Educação	6	09/12/2021	Sob Revisão	 - 
+AESB3	AES Brasil	Serviços de utilidade pública	6	09/12/2021	Compra	16
+EGIE3	Engie Brasil	Serviços de utilidade pública	6	09/12/2021	Neutra	49
+CMIG4	Cemig	Serviços de utilidade pública	6	09/12/2021	Neutra	13
+CIG	Cemig ADR	Serviços de utilidade pública	6	09/12/2021	Neutra	3
+EQTL3	Equatorial	Serviços de utilidade pública	6	09/12/2021	Compra	30
+TRPL4	CTEEP	Serviços de utilidade pública	6	09/12/2021	Neutra	26
+TAEE11	Taesa	Serviços de utilidade pública	6	09/12/2021	Neutra	38
+ENBR3	EDP Brasil	Serviços de utilidade pública	6	09/12/2021	Compra	22
+CPLE6	Copel	Serviços de utilidade pública	6	09/12/2021	Compra	8
+ELP	Copel ADR	Serviços de utilidade pública	6	09/12/2021	Compra	2
+OMGE3	Omega Geração	Serviços de utilidade pública	6	09/12/2021	Compra	48
+CESP6	Cesp	Serviços de utilidade pública	6	09/12/2021	Compra	33
+CPFE3	CPFL Energia	Serviços de utilidade pública	6	09/12/2021	Sob Revisão	 - 
+ELET3	Eletrobras	Serviços de utilidade pública	6	09/12/2021	Sob Revisão	 - 
+ELET6	Eletrobras	Serviços de utilidade pública	6	09/12/2021	Sob Revisão	 - 
+ENEV3	Eneva	Serviços de utilidade pública	6	09/12/2021	Sob Revisão	 - 
+ENGI11	Energisa	Serviços de utilidade pública	6	09/12/2021	Sob Revisão	 - 
+LIGT3	Light S/A	Serviços de utilidade pública	6	09/12/2021	Sob Revisão	 - 
+ALUP11	Alupar	Serviços de utilidade pública	6	09/12/2021	Sob Revisão	 - 
+BRKM5	Braskem	Indústria	6	09/12/2021	Sob Revisão	 - 
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	6	09/12/2021	Sob Revisão	 - 
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	6	09/12/2021	Sob Revisão	 - 
+DXCO3	Duratex S.A.	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Sob Revisão	 - 
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Compra	97
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Compra	18
+CMIN3	CSN Mineração	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Compra	8
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Compra	34
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Neutra	15
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Compra	95
+CBAV3	Companhia Brasileira de Alumínio	Indústria	6	09/12/2021	Compra	18
+BRAP4	Bradespar	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Compra	37
+GOAU4	Metalúrgica Gerdau	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Compra	15
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Compra	31
+RANI3	Irani	Mineração, Siderurgia, Papel e Celulose	6	09/12/2021	Neutra	8
+SAPR11	Sanepar	Serviços de utilidade pública	6	09/12/2021	Neutra	26
+SBSP3	Sabesp	Serviços de utilidade pública	6	09/12/2021	Neutra	52
+CSMG3	Copasa	Serviços de utilidade pública	6	09/12/2021	Venda	15
+ORVR3	Orizon	Serviços de utilidade pública	6	09/12/2021	Compra	30
+RDOR3	Rede d or	Saúde e Educação	6	09/12/2021	Compra	88
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	6	09/12/2021	Compra	110
+AALR3	Alliar	Saúde e Educação	6	09/12/2021	Neutra	10
+FLRY3	Fleury	Saúde e Educação	6	09/12/2021	Neutra	29
+PARD3	Hermes Pardini	Saúde e Educação	6	09/12/2021	Neutra	21
+BLAU3	Blau Framacêutica	Saúde e Educação	6	09/12/2021	Compra	64
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	6	09/12/2021	Compra	48
+KRSA3	Kora Saude Participacoes	Saúde e Educação	6	09/12/2021	Compra	12
+DASA3	Dasa	Saúde e Educação	6	09/12/2021	Sob Revisão	 - 
+MATD3	Mater Dei	Saúde e Educação	6	09/12/2021	Sob Revisão	 - 
+QUAL3	Qualicorp	Saúde e Educação	6	09/12/2021	Sob Revisão	 - 
+ODPV3	Odontoprev	Saúde e Educação	6	09/12/2021	Sob Revisão	 - 
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	6	09/12/2021	Sob Revisão	 - 
+CASH3	Meliuz	Serviços bancários e financeiros	6	09/12/2021	Compra	8
+G2DI33	G2D Investments	Serviços bancários e financeiros	6	09/12/2021	Compra	11
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Compra	30
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Compra	35
+POSI3	Positivo Tecnologia	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Compra	16
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Compra	48
+BRIT3	Brisanet Participacoes	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Compra	17
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Compra	13
+TIMS3	TIM	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Sob Revisão	 - 
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Sob Revisão	 - 
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	6	09/12/2021	Compra	16
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	6	09/12/2021	Neutra	12
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	6	09/12/2021	Compra	24
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	6	09/12/2021	Compra	9
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	6	09/12/2021	Neutra	9
+RENT3	Localiza	Transporte e Logística - Bens de Capital	6	09/12/2021	Compra	68
+LCAM3	Unidas	Transporte e Logística - Bens de Capital	6	09/12/2021	Compra	36
+MOVI3	Movida	Transporte e Logística - Bens de Capital	6	09/12/2021	Compra	26
+SIMH3	Simpar	Serviços bancários e financeiros	6	09/12/2021	Compra	15
+JSLG3	JSL	Transporte e Logística - Bens de Capital	6	09/12/2021	Compra	12
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	6	09/12/2021	Sob Revisão	 - 
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	6	09/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	6	09/12/2021	Sob Revisão	 - 
+GOLL4	Gol	Transporte e Logística - Bens de Capital	6	09/12/2021	Sob Revisão	 - 
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	6	09/12/2021	Neutra	18
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	6	09/12/2021	Neutra	45
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	6	09/12/2021	Neutra	8
+VIIA3	Via	Bens de Consumo e Varejo	6	09/12/2021	Neutra	10
+ENJU3	Enjoei	Bens de Consumo e Varejo	6	09/12/2021	Neutra	7
+ARZZ3	Arezzo & Co	Bens de Consumo e Varejo	6	09/12/2021	Compra	108
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	6	09/12/2021	Compra	22
+LREN3	Lojas Renner	Bens de Consumo e Varejo	6	09/12/2021	Compra	43
+VIVA3	Vivara	Bens de Consumo e Varejo	6	09/12/2021	Compra	37
+CEAB3	C&A	Bens de Consumo e Varejo	6	09/12/2021	Neutra	9
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Compra	13
+CRFB3	Carrefour	Bens de Consumo e Varejo	6	09/12/2021	Neutra	22
+PCAR3	GPA	Bens de Consumo e Varejo	6	09/12/2021	Neutra	35
+ASAI3	Assaí	Bens de Consumo e Varejo	6	09/12/2021	Compra	23
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	6	09/12/2021	Compra	10
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	6	09/12/2021	Compra	27
+PGMN3	Pague Menos	Saúde e Educação	6	09/12/2021	Compra	15
+DMVF3	d1000	Bens de Consumo e Varejo	6	09/12/2021	Neutra	8
+NTCO3	Natura	Bens de Consumo e Varejo	6	09/12/2021	Compra	45
+CVCB3	CVC	Bens de Consumo e Varejo	6	09/12/2021	Sob Revisão	 - 
+GUAR3	Guararapes	Bens de Consumo e Varejo	6	09/12/2021	Sob Revisão	 - 
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	6	09/12/2021	Sob Revisão	 - 
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	33
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	6	09/12/2021	Neutra	23
+EVEN3	Even	Propriedades Comerciais e Construção Civil	6	09/12/2021	Neutra	13
+TRIS3	Trisul	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	14
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	12
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	9
+CURY3	Cury	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	15
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	10
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	38
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	48
+GFSA3	Gafisa	Propriedades Comerciais e Construção Civil	6	09/12/2021	Sob Revisão	 - 
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	30
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	13
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	6	09/12/2021	Neutra	40
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	6	09/12/2021	Sob Revisão	 - 
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	6	09/12/2021	Sob Revisão	 - 
+MEAL3	IMC	Bens de Consumo e Varejo	6	09/12/2021	Neutra	4
+PRNR3	Priner	Indústria	6	09/12/2021	Compra	13
+MILS3	Mills	Propriedades Comerciais e Construção Civil	6	09/12/2021	Compra	8
+ALPK3	Estapar	Propriedades Comerciais e Construção Civil	6	09/12/2021	Neutra	10
+VULC3	Vulcabras Azaleia	Bens de Consumo e Varejo	6	09/12/2021	Compra	12
+GRND3	Grendene	Bens de Consumo e Varejo	6	09/12/2021	Neutra	11
+ALLD3	Allied	Bens de Consumo e Varejo	6	09/12/2021	Compra	38
+BKBR3	BK Brasil	Bens de Consumo e Varejo	6	09/12/2021	Compra	12
+KEPL3	Kepler Weber	Agronegócio	6	09/12/2021	Compra	47
+ARML3	Armac Locacao Logistica e Servicos	Transporte e Logística - Bens de Capital	6	09/12/2021	Sob Revisão	 - 
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Sob Revisão	 - 
+NGRD3	Neogrid	Telecomunicações, Mídia e Tecnologia	6	09/12/2021	Sob Revisão	 - 
+TRPL4	CTEEP	Serviços de utilidade pública	4	09/12/2021	Neutra	27
+GGPS3	GPS Serviços	Serviços	1	10/12/2021	Compra	23
+LIGT3	Light S/A	Serviços de utilidade pública	4	10/12/2021	Compra	17
+ENJU3	Enjoei	Bens de Consumo e Varejo	4	10/12/2021	Neutra	5
+ABEV3	Ambev	Alimentos e Bebidas	4	10/12/2021	Neutra	18
+B3SA3	B3	Serviços bancários e financeiros	1	10/12/2021	Compra	15
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	10
+OFSA3	Ouro Fino	Agronegócio	5	10/12/2021	Compra	52
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	27
+SLCE3	SLC Agricola	Agronegócio	5	10/12/2021	Compra	55
+SMTO3	São Martinho	Agronegócio	5	10/12/2021	Compra	42
+SOJA3	Boa Safra	Agronegócio	5	10/12/2021	Compra	19
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	5	10/12/2021	Compra	24
+B3SA3	B3	Serviços bancários e financeiros	5	10/12/2021	Compra	22
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	5	10/12/2021	Compra	42
+BBDC4	Bradesco	Serviços bancários e financeiros	5	10/12/2021	Neutra	25
+BBSE3	BB Seguridade	Serviços bancários e financeiros	5	10/12/2021	Compra	32
+BOAS3	Boa Vista Serviços	Serviços bancários e financeiros	5	10/12/2021	Compra	16
+BIDI11	Banco Inter	Serviços bancários e financeiros	5	10/12/2021	Compra	77
+BPAC11	Banco BTG Pactual	Serviços bancários e financeiros	5	10/12/2021	Compra	34
+BPAN4	Banco Pan	Serviços bancários e financeiros	5	10/12/2021	Compra	25
+BRSR6	Banrisul	Serviços bancários e financeiros	5	10/12/2021	Neutra	15
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	5	10/12/2021	Compra	30
+CASH3	Meliuz	Serviços bancários e financeiros	5	10/12/2021	Compra	11
+CIEL3	Cielo	Serviços bancários e financeiros	5	10/12/2021	Neutra	5
+CXSE3	Caixa Seguridade	Serviços bancários e financeiros	5	10/12/2021	Compra	18
+DOTZ3	Dotz	Serviços bancários e financeiros	5	10/12/2021	Compra	22
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	5	10/12/2021	Sob Revisão	 - 
+MOSI3	Mosaico	Bens de Consumo e Varejo	5	10/12/2021	Neutra	13
+MODL11	Banco Modal	Serviços bancários e financeiros	5	10/12/2021	Neutra	20
+PAGS	Pag Seguro	Serviços bancários e financeiros	5	10/12/2021	Compra	70
+PAX	Patria Investments	Serviços bancários e financeiros	5	10/12/2021	Compra	21
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	5	10/12/2021	Neutra	41
+STNE	Stoneco Ltda	Serviços bancários e financeiros	5	10/12/2021	Compra	65
+VINP	Vinci Partners	Serviços bancários e financeiros	5	10/12/2021	Compra	18
+WIZS3	WIZ	Serviços bancários e financeiros	5	10/12/2021	Compra	23
+AMAR3	Lojas Marisa	Bens de Consumo e Varejo	5	10/12/2021	Sob Revisão	 - 
+ALLD3	Allied	Bens de Consumo e Varejo	5	10/12/2021	Compra	32
+ARCO	Arcos Dorados	Bens de Consumo e Varejo	5	10/12/2021	Compra	8
+ASAI3	Assaí	Bens de Consumo e Varejo	5	10/12/2021	Neutra	20
+BKBR3	BK Brasil	Bens de Consumo e Varejo	5	10/12/2021	Compra	12
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	5	10/12/2021	Compra	74
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	5	10/12/2021	Neutra	40
+CRFB3	Carrefour	Bens de Consumo e Varejo	5	10/12/2021	Compra	30
+CVCB3	CVC	Bens de Consumo e Varejo	5	10/12/2021	Sob Revisão	 - 
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	5	10/12/2021	Compra	22
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	5	10/12/2021	Compra	11
+GUAR3	Guararapes	Bens de Consumo e Varejo	5	10/12/2021	Compra	25
+HGTX3	Cia Henrig	Bens de Consumo e Varejo	5	10/12/2021	Sob Revisão	 - 
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	5	10/12/2021	Compra	41
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	5	10/12/2021	Compra	29
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	5	10/12/2021	Compra	25
+LREN3	Lojas Renner	Bens de Consumo e Varejo	5	10/12/2021	Compra	51
+MEAL3	IMC	Bens de Consumo e Varejo	5	10/12/2021	Neutra	4
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	5	10/12/2021	Compra	24
+MBLY3	Mobly	Bens de Consumo e Varejo	5	10/12/2021	Sob Revisão	 - 
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	15
+NTCO3	Natura	Bens de Consumo e Varejo	5	10/12/2021	Compra	40
+PCAR3	GPA	Bens de Consumo e Varejo	5	10/12/2021	Compra	39
+PGMN3	Pague Menos	Saúde e Educação	5	10/12/2021	Compra	16
+SMFT3	Smartfit	Saúde e Educação	5	10/12/2021	Compra	33
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	5	10/12/2021	Neutra	28
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	5	10/12/2021	Compra	20
+TFCO4	Track & Field	Bens de Consumo e Varejo	5	10/12/2021	Compra	18
+VIVA3	Vivara	Bens de Consumo e Varejo	5	10/12/2021	Compra	37
+VIIA3	Via	Bens de Consumo e Varejo	5	10/12/2021	Sob Revisão	 - 
+ABEV3	Ambev	Alimentos e Bebidas	5	10/12/2021	Neutra	19
+BEEF3	Minerva Foods	Alimentos e Bebidas	5	10/12/2021	Compra	17
+BRFS3	BRF Foods	Alimentos e Bebidas	5	10/12/2021	Neutra	24
+CAML3	Camil Alimentos	Alimentos e Bebidas	5	10/12/2021	Neutra	11
+JBSS3	JBS	Alimentos e Bebidas	5	10/12/2021	Compra	47
+MDIA3	M Dias Branco	Alimentos e Bebidas	5	10/12/2021	Neutra	30
+MRFG3	Marfrig	Alimentos e Bebidas	5	10/12/2021	Compra	26
+AFYA	Afya Ltd	Saúde e Educação	5	10/12/2021	Compra	38
+ANIM3	Anima Educação	Saúde e Educação	5	10/12/2021	Compra	19
+ARCE	Arco Platform Ltd	Saúde e Educação	5	10/12/2021	Compra	47
+COGN3	Cogna	Saúde e Educação	5	10/12/2021	Neutra	6
+SEER3	Ser Educacional	Saúde e Educação	5	10/12/2021	Neutra	22
+VTRU	Vitru	Saúde e Educação	5	10/12/2021	Compra	24
+YDUQ3	YDUQS	Saúde e Educação	5	10/12/2021	Neutra	45
+AALR3	Alliar	Saúde e Educação	5	10/12/2021	Neutra	15
+BLAU3	Blau Framacêutica	Saúde e Educação	5	10/12/2021	Compra	68
+DASA3	Dasa	Saúde e Educação	5	10/12/2021	Compra	81
+FLRY3	Fleury	Saúde e Educação	5	10/12/2021	Neutra	29
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	5	10/12/2021	Compra	84
+HAPV3	Hapvida	Saúde e Educação	5	10/12/2021	Compra	17
+KRSA3	Kora Saude Participacoes	Saúde e Educação	5	10/12/2021	Compra	8
+MATD3	Mater Dei	Saúde e Educação	5	10/12/2021	Compra	23
+ODPV3	Odontoprev	Saúde e Educação	5	10/12/2021	Neutra	14
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	5	10/12/2021	Compra	18
+PARD3	Hermes Pardini	Saúde e Educação	5	10/12/2021	Neutra	26
+PNVL3	Dimed	Saúde e Educação	5	10/12/2021	Compra	20
+QUAL3	Qualicorp	Saúde e Educação	5	10/12/2021	Compra	39
+RDOR3	Rede d or	Saúde e Educação	5	10/12/2021	Compra	67
+VVEO3	CM Hospitalar	Saúde e Educação	5	10/12/2021	Compra	35
+BRDT3	BR Distribuidora	Petróleo, Gás e Petroquímicos	5	10/12/2021	Compra	34
+CSAN3	Cosan	Agronegócio	5	10/12/2021	Compra	30
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	5	10/12/2021	Neutra	13
+OPCT3	Oceanpact	Petróleo, Gás e Petroquímicos	5	10/12/2021	Compra	9
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	5	10/12/2021	Compra	38
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	5	10/12/2021	Compra	22
+RECV3	PetroRecôncavo	Petróleo, Gás e Petroquímicos	5	10/12/2021	Compra	25
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	5	10/12/2021	Compra	26
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	36
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	11
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	5	10/12/2021	Neutra	10
+SYNE3	Cyrela Commercial Properties	Propriedades Comerciais e Construção Civil	5	10/12/2021	Neutra	17
+CURY3	Cury	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	15
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	28
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	21
+EVEN3	Even	Propriedades Comerciais e Construção Civil	5	10/12/2021	Neutra	14
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	33
+HBOR3	Helbor	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	14
+IGTA3	Iguatemi	Propriedades Comerciais e Construção Civil	5	10/12/2021	Neutra	322
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	8
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	36
+LPSB3	Lopes Brasil	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	4
+MDNE3	Moura Dubeux	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	18
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	8
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	21
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	5	10/12/2021	Neutra	19
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	31
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	9
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	5	10/12/2021	Neutra	44
+TCSA3	Tecnisa	Propriedades Comerciais e Construção Civil	5	10/12/2021	Venda	9
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	5	10/12/2021	Compra	29
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	5	10/12/2021	Neutra	72
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	5	10/12/2021	Neutra	25
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	5	10/12/2021	Compra	34
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	5	10/12/2021	Compra	28
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	5	10/12/2021	Compra	74
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	5	10/12/2021	Compra	20
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	5	10/12/2021	Compra	16
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	5	10/12/2021	Compra	90
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	29
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	40
+ELMD3	Eletromidia	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	25
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	14
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	28
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	28
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	19
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	36
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	39
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	43
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Compra	45
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	5	10/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	5	10/12/2021	Neutra	41
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	17
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	16
+GGPS3	GPS Serviços	Serviços	5	10/12/2021	Compra	25
+GOLL4	Gol	Transporte e Logística - Bens de Capital	5	10/12/2021	Neutra	25
+JSLG3	JSL	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	15
+LOGN3	Log-In	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	22
+MOVI3	Movida	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	23
+MYPK3	Iochpe-Maxion	Indústria	5	10/12/2021	Compra	20
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	5	10/12/2021	Neutra	3
+RAPT4	Randon	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	16
+SIMH3	Simpar	Serviços bancários e financeiros	5	10/12/2021	Compra	13
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	9
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	22
+TUPY3	Tupy	Indústria	5	10/12/2021	Compra	27
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	5	10/12/2021	Compra	19
+WEGE3	WEG	Indústria	5	10/12/2021	Neutra	46
+ALUP11	Alupar	Serviços de utilidade pública	5	10/12/2021	Compra	35
+AESB3	AES Brasil	Serviços de utilidade pública	5	10/12/2021	Compra	14
+CMIG4	Cemig	Serviços de utilidade pública	5	10/12/2021	Neutra	13
+CPFE3	CPFL Energia	Serviços de utilidade pública	5	10/12/2021	Compra	37
+CPLE6	Copel	Serviços de utilidade pública	5	10/12/2021	Compra	7
+CSMG3	Copasa	Serviços de utilidade pública	5	10/12/2021	Neutra	19
+EGIE3	Engie Brasil	Serviços de utilidade pública	5	10/12/2021	Compra	44
+ELET3	Eletrobras	Serviços de utilidade pública	5	10/12/2021	Compra	53
+ENEV3	Eneva	Serviços de utilidade pública	5	10/12/2021	Compra	19
+ENGI11	Energisa	Serviços de utilidade pública	5	10/12/2021	Compra	65
+EQTL3	Equatorial	Serviços de utilidade pública	5	10/12/2021	Compra	29
+LIGT3	Light S/A	Serviços de utilidade pública	5	10/12/2021	Neutra	21
+NEOE3	Neoenergia	Serviços de utilidade pública	5	10/12/2021	Compra	27
+OMGE3	Omega Geração	Serviços de utilidade pública	5	10/12/2021	Compra	38
+SAPR11	Sanepar	Serviços de utilidade pública	5	10/12/2021	Neutra	40
+SBSP3	Sabesp	Serviços de utilidade pública	5	10/12/2021	Compra	65
+TAEE11	Taesa	Serviços de utilidade pública	5	10/12/2021	Venda	37
+TRPL4	CTEEP	Serviços de utilidade pública	5	10/12/2021	Neutra	28
+GOLL4	Gol	Transporte e Logística - Bens de Capital	1	10/12/2021	Neutra	24
+AZUL4	Azul	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	35
+GOLL4	Gol	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	33
+CSAN3	Cosan	Agronegócio	3	10/12/2021	Sob Revisão	 - 
+JALL3	Jalles Machado	Agronegócio	3	10/12/2021	Compra	16
+SMTO3	São Martinho	Agronegócio	3	10/12/2021	Neutra	33
+AGXY3	Agrogalaxy Participacoes	Agronegócio	3	10/12/2021	Compra	21
+SOJA3	Boa Safra	Agronegócio	3	10/12/2021	Compra	20
+AGRO3	Brasil Agro	Agronegócio	3	10/12/2021	Compra	37
+SLCE3	SLC Agricola	Agronegócio	3	10/12/2021	Neutra	49
+ABEV3	Ambev	Alimentos e Bebidas	3	10/12/2021	Neutra	16
+BEEF3	Minerva Foods	Alimentos e Bebidas	3	10/12/2021	Compra	18
+BRFS3	BRF Foods	Alimentos e Bebidas	3	10/12/2021	Compra	30
+CAML3	Camil Alimentos	Alimentos e Bebidas	3	10/12/2021	Compra	16
+JBSS3	JBS	Alimentos e Bebidas	3	10/12/2021	Neutra	36
+MDIA3	M Dias Branco	Alimentos e Bebidas	3	10/12/2021	Neutra	43
+MRFG3	Marfrig	Alimentos e Bebidas	3	10/12/2021	Neutra	30
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	3	10/12/2021	Compra	21
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	3	10/12/2021	Neutra	39
+BBDC4	Bradesco	Serviços bancários e financeiros	3	10/12/2021	Compra	31
+BIDI11	Banco Inter	Serviços bancários e financeiros	3	10/12/2021	Compra	50
+BMGB4	Banco BMG	Serviços bancários e financeiros	3	10/12/2021	Compra	7
+BPAC11	Banco BTG Pactual	Serviços bancários e financeiros	3	10/12/2021	Compra	33
+BPAN4	Banco Pan	Serviços bancários e financeiros	3	10/12/2021	Compra	29
+BRSR6	Banrisul	Serviços bancários e financeiros	3	10/12/2021	Neutra	15
+ITUB4	Itaú Unibanco	Serviços bancários e financeiros	3	10/12/2021	Compra	35
+ITSA4	Itausa	Serviços bancários e financeiros	3	10/12/2021	Compra	15
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	3	10/12/2021	Compra	49
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	3	10/12/2021	Neutra	 - 
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	3	10/12/2021	Neutra	 - 
+CURY3	Cury	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	12
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	32
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	19
+EVEN3	Even	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	15
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	45
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	10
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	10
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	8
+MDNE3	Moura Dubeux	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	12
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	22
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	15
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	8
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	27
+TRIS3	Trisul	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	14
+ANIM3	Anima Educação	Saúde e Educação	3	10/12/2021	Compra	25
+COGN3	Cogna	Saúde e Educação	3	10/12/2021	Neutra	3
+CSED3	Cruzeiro do Sul	Saúde e Educação	3	10/12/2021	Compra	26
+SEER3	Ser Educacional	Saúde e Educação	3	10/12/2021	Compra	21
+YDUQ3	YDUQS	Saúde e Educação	3	10/12/2021	Compra	53
+CMIG4	Cemig	Serviços de utilidade pública	3	10/12/2021	Neutra	17
+CPLE6	Copel	Serviços de utilidade pública	3	10/12/2021	Compra	9
+EQTL3	Equatorial	Serviços de utilidade pública	3	10/12/2021	Compra	26
+EGIE3	Engie Brasil	Serviços de utilidade pública	3	10/12/2021	Neutra	50
+ENBR3	EDP Brasil	Serviços de utilidade pública	3	10/12/2021	Compra	26
+POWE3	Focus Energia	Serviços de utilidade pública	3	10/12/2021	Neutra	19
+LIGT3	Light S/A	Serviços de utilidade pública	3	10/12/2021	Neutra	20
+NEOE3	Neoenergia	Serviços de utilidade pública	3	10/12/2021	Compra	21
+AESB3	AES Brasil	Serviços de utilidade pública	3	10/12/2021	Neutra	18
+TRPL4	CTEEP	Serviços de utilidade pública	3	10/12/2021	Neutra	30
+BOAS3	Boa Vista Serviços	Serviços bancários e financeiros	3	10/12/2021	Neutra	 - 
+B3SA3	B3	Serviços bancários e financeiros	3	10/12/2021	Compra	27
+CIEL3	Cielo	Serviços bancários e financeiros	3	10/12/2021	Compra	 - 
+DOTZ3	Dotz	Serviços bancários e financeiros	3	10/12/2021	Compra	21
+CASH3	Meliuz	Serviços bancários e financeiros	3	10/12/2021	Compra	 - 
+AERI3	Aeris Energy	Indústria	3	10/12/2021	Neutra	10
+EMBR3	Embraer	Transporte e Logística - Bens de Capital	3	10/12/2021	Sob Revisão	 - 
+TASA4	Taurus	Indústria	3	10/12/2021	Compra	32
+FRAS3	Fras-Le	Indústria	3	10/12/2021	Neutra	17
+LEVE3	MAHLE Metal Leve	Indústria	3	10/12/2021	Neutra	 - 
+MYPK3	Iochpe-Maxion	Indústria	3	10/12/2021	Compra	22
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	3	10/12/2021	Neutra	3
+RAPT4	Randon	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	25
+ROMI3	Indústrias Romi	Indústria	3	10/12/2021	Compra	23
+PRNR3	Priner	Indústria	3	10/12/2021	Sob Revisão	 - 
+TUPY3	Tupy	Indústria	3	10/12/2021	Compra	32
+WEGE3	WEG	Indústria	3	10/12/2021	Compra	52
+BRKM5	Braskem	Indústria	3	10/12/2021	Neutra	45
+ARML3	Armac Locacao Logistica e Servicos	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	32
+LCAM3	Unidas	Transporte e Logística - Bens de Capital	3	10/12/2021	Neutra	29
+MOVI3	Movida	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	31
+RENT3	Localiza	Transporte e Logística - Bens de Capital	3	10/12/2021	Neutra	64
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	20
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	7
+JSLG3	JSL	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	14
+LOGN3	Log-In	Transporte e Logística - Bens de Capital	3	10/12/2021	Neutra	27
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	30
+SIMH3	Simpar	Serviços bancários e financeiros	3	10/12/2021	Compra	23
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	11
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	25
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	3	10/12/2021	Compra	25
+PTBL3	Portobello	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	13
+BRAP4	Bradespar	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Compra	72
+CBAV3	Companhia Brasileira de Alumínio	Indústria	3	10/12/2021	Neutra	14
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Compra	43
+CMIN3	CSN Mineração	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Compra	9
+FESA4	Ferbasa	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Venda	45
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Compra	40
+GOAU4	Metalúrgica Gerdau	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Compra	20
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Compra	21
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Compra	112
+VBBR3	Vibra Energia	Petróleo, Gás e Petroquímicos	3	10/12/2021	Compra	36
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	3	10/12/2021	Neutra	16
+OPCT3	Oceanpact	Petróleo, Gás e Petroquímicos	3	10/12/2021	Compra	7
+PETR3	Petrobras	Petróleo, Gás e Petroquímicos	3	10/12/2021	Compra	35
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	3	10/12/2021	Compra	34
+RECV3	PetroRecôncavo	Petróleo, Gás e Petroquímicos	3	10/12/2021	Compra	24
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	3	10/12/2021	Compra	 - 
+RAIZ4	Raizen S.A.	Petróleo, Gás e Petroquímicos	3	10/12/2021	Compra	10
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	3	10/12/2021	Compra	25
+RRRP3	3R Petroleum	Petróleo, Gás e Petroquímicos	3	10/12/2021	Restrito	 - 
+RANI3	Irani	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Compra	11
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Compra	34
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	3	10/12/2021	Venda	52
+ALPK3	Estapar	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	36
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	45
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	3	10/12/2021	Compra	12
+CSMG3	Copasa	Serviços de utilidade pública	3	10/12/2021	Neutra	20
+SBSP3	Sabesp	Serviços de utilidade pública	3	10/12/2021	Compra	47
+SAPR11	Sanepar	Serviços de utilidade pública	3	10/12/2021	Neutra	30
+AALR3	Alliar	Saúde e Educação	3	10/12/2021	Neutra	18
+BLAU3	Blau Framacêutica	Saúde e Educação	3	10/12/2021	Compra	59
+DMVF3	d1000	Bens de Consumo e Varejo	3	10/12/2021	Compra	17
+FLRY3	Fleury	Saúde e Educação	3	10/12/2021	Compra	28
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	3	10/12/2021	Compra	98
+HAPV3	Hapvida	Saúde e Educação	3	10/12/2021	Neutra	17
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	3	10/12/2021	Compra	49
+ODPV3	Odontoprev	Saúde e Educação	3	10/12/2021	Neutra	14
+PARD3	Hermes Pardini	Saúde e Educação	3	10/12/2021	Compra	34
+MATD3	Mater Dei	Saúde e Educação	3	10/12/2021	Compra	24
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	3	10/12/2021	Compra	40
+PFRM3	Profarma	Saúde e Educação	3	10/12/2021	Compra	11
+PGMN3	Pague Menos	Saúde e Educação	3	10/12/2021	Compra	20
+PNVL3	Dimed	Saúde e Educação	3	10/12/2021	Compra	35
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	3	10/12/2021	Neutra	32
+RDOR3	Rede d or	Saúde e Educação	3	10/12/2021	Compra	86
+SULA11	Sul América	Saúde e Educação	3	10/12/2021	Compra	38
+BBSE3	BB Seguridade	Serviços bancários e financeiros	3	10/12/2021	Compra	30
+PSSA3	Porto Seguro	Serviços bancários e financeiros	3	10/12/2021	Compra	35
+NINJ3	GetNinjas	Serviços	3	10/12/2021	Neutra	 - 
+GGPS3	GPS Serviços	Serviços	3	10/12/2021	Compra	23
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	32
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	11
+IGTI11	Iguatemi S.A.	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	290
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	3	10/12/2021	Compra	26
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	28
+CLSA3	ClearSale	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	30
+CARD3	CSU CardSystem	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Neutra	28
+ELMD3	Eletromidia	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	21
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	28
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Neutra	31
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	42
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	18
+NGRD3	Neogrid	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	9
+POSI3	Positivo Tecnologia	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	15
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	34
+TRAD3	Tc Traders Club	Serviços bancários e financeiros	3	10/12/2021	Compra	14
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	47
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Neutra	9
+BRIT3	Brisanet Participacoes	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Neutra	11
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	29
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	11
+TIMS3	TIM	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	19
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	3	10/12/2021	Compra	58
+AMBP3	Ambipar	Bens de Consumo e Varejo	3	10/12/2021	Neutra	46
+ORVR3	Orizon	Serviços de utilidade pública	3	10/12/2021	Compra	30
+ARZZ3	Arezzo & Co	Bens de Consumo e Varejo	3	10/12/2021	Compra	112
+ASAI3	Assaí	Bens de Consumo e Varejo	3	10/12/2021	Compra	26
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	3	10/12/2021	Compra	73
+BKBR3	BK Brasil	Bens de Consumo e Varejo	3	10/12/2021	Compra	14
+CEAB3	C&A	Bens de Consumo e Varejo	3	10/12/2021	Compra	10
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	3	10/12/2021	Compra	49
+CRFB3	Carrefour	Bens de Consumo e Varejo	3	10/12/2021	Compra	31
+CVCB3	CVC	Bens de Consumo e Varejo	3	10/12/2021	Compra	31
+ENJU3	Enjoei	Bens de Consumo e Varejo	3	10/12/2021	Compra	8
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	3	10/12/2021	Compra	22
+PCAR3	GPA	Bens de Consumo e Varejo	3	10/12/2021	Compra	53
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	3	10/12/2021	Compra	14
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	3	10/12/2021	Compra	23
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	3	10/12/2021	Compra	12
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	3	10/12/2021	Compra	26
+LREN3	Lojas Renner	Bens de Consumo e Varejo	3	10/12/2021	Compra	60
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	3	10/12/2021	Neutra	18
+MBLY3	Mobly	Bens de Consumo e Varejo	3	10/12/2021	Compra	12
+MOSI3	Mosaico	Bens de Consumo e Varejo	3	10/12/2021	Neutra	23
+NTCO3	Natura	Bens de Consumo e Varejo	3	10/12/2021	Compra	65
+PETZ3	Petz	Bens de Consumo e Varejo	3	10/12/2021	Compra	30
+SMFT3	Smartfit	Saúde e Educação	3	10/12/2021	Compra	33
+TFCO4	Track & Field	Bens de Consumo e Varejo	3	10/12/2021	Neutra	19
+VULC3	Vulcabras Azaleia	Bens de Consumo e Varejo	3	10/12/2021	Compra	13
+VIVA3	Vivara	Bens de Consumo e Varejo	3	10/12/2021	Compra	41
+VIIA3	Via	Bens de Consumo e Varejo	3	10/12/2021	Compra	14
+WEST3	Westwing	Bens de Consumo e Varejo	3	10/12/2021	Compra	11
+EGIE3	Engie Brasil	Serviços de utilidade pública	4	10/12/2021	Compra	49
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	1	12/12/2021	Compra	22
+SIMH3	Simpar	Serviços bancários e financeiros	1	13/12/2021	Compra	21
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	10
+OFSA3	Ouro Fino	Agronegócio	5	13/12/2021	Compra	52
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	27
+SLCE3	SLC Agricola	Agronegócio	5	13/12/2021	Compra	55
+SMTO3	São Martinho	Agronegócio	5	13/12/2021	Compra	42
+SOJA3	Boa Safra	Agronegócio	5	13/12/2021	Compra	19
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	5	13/12/2021	Compra	24
+B3SA3	B3	Serviços bancários e financeiros	5	13/12/2021	Compra	22
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	5	13/12/2021	Compra	42
+BBDC4	Bradesco	Serviços bancários e financeiros	5	13/12/2021	Neutra	25
+BBSE3	BB Seguridade	Serviços bancários e financeiros	5	13/12/2021	Compra	32
+BOAS3	Boa Vista Serviços	Serviços bancários e financeiros	5	13/12/2021	Compra	16
+BIDI11	Banco Inter	Serviços bancários e financeiros	5	13/12/2021	Compra	77
+BPAC11	Banco BTG Pactual	Serviços bancários e financeiros	5	13/12/2021	Compra	34
+BPAN4	Banco Pan	Serviços bancários e financeiros	5	13/12/2021	Compra	25
+BRSR6	Banrisul	Serviços bancários e financeiros	5	13/12/2021	Neutra	15
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	5	13/12/2021	Compra	30
+CASH3	Meliuz	Serviços bancários e financeiros	5	13/12/2021	Compra	11
+CIEL3	Cielo	Serviços bancários e financeiros	5	13/12/2021	Neutra	5
+CXSE3	Caixa Seguridade	Serviços bancários e financeiros	5	13/12/2021	Compra	18
+DOTZ3	Dotz	Serviços bancários e financeiros	5	13/12/2021	Compra	22
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	5	13/12/2021	Sob Revisão	 - 
+MOSI3	Mosaico	Bens de Consumo e Varejo	5	13/12/2021	Neutra	13
+MODL11	Banco Modal	Serviços bancários e financeiros	5	13/12/2021	Neutra	20
+PAGS	Pag Seguro	Serviços bancários e financeiros	5	13/12/2021	Compra	70
+PAX	Patria Investments	Serviços bancários e financeiros	5	13/12/2021	Compra	21
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	5	13/12/2021	Neutra	41
+STNE	Stoneco Ltda	Serviços bancários e financeiros	5	13/12/2021	Compra	65
+VINP	Vinci Partners	Serviços bancários e financeiros	5	13/12/2021	Compra	18
+WIZS3	WIZ	Serviços bancários e financeiros	5	13/12/2021	Compra	23
+AMAR3	Lojas Marisa	Bens de Consumo e Varejo	5	13/12/2021	Sob Revisão	 - 
+ALLD3	Allied	Bens de Consumo e Varejo	5	13/12/2021	Compra	32
+ARCO	Arcos Dorados	Bens de Consumo e Varejo	5	13/12/2021	Compra	8
+ASAI3	Assaí	Bens de Consumo e Varejo	5	13/12/2021	Compra	21
+BKBR3	BK Brasil	Bens de Consumo e Varejo	5	13/12/2021	Compra	12
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	5	13/12/2021	Compra	74
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	5	13/12/2021	Neutra	40
+CRFB3	Carrefour	Bens de Consumo e Varejo	5	13/12/2021	Compra	24
+CVCB3	CVC	Bens de Consumo e Varejo	5	13/12/2021	Sob Revisão	 - 
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	5	13/12/2021	Compra	22
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	5	13/12/2021	Compra	9
+GUAR3	Guararapes	Bens de Consumo e Varejo	5	13/12/2021	Compra	25
+HGTX3	Cia Henrig	Bens de Consumo e Varejo	5	13/12/2021	Sob Revisão	 - 
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	5	13/12/2021	Compra	41
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	5	13/12/2021	Compra	29
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	5	13/12/2021	Compra	25
+LREN3	Lojas Renner	Bens de Consumo e Varejo	5	13/12/2021	Compra	51
+MEAL3	IMC	Bens de Consumo e Varejo	5	13/12/2021	Neutra	4
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	5	13/12/2021	Compra	24
+MBLY3	Mobly	Bens de Consumo e Varejo	5	13/12/2021	Sob Revisão	 - 
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	15
+NTCO3	Natura	Bens de Consumo e Varejo	5	13/12/2021	Compra	40
+PCAR3	GPA	Bens de Consumo e Varejo	5	13/12/2021	Compra	39
+PGMN3	Pague Menos	Saúde e Educação	5	13/12/2021	Compra	16
+SMFT3	Smartfit	Saúde e Educação	5	13/12/2021	Compra	33
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	5	13/12/2021	Neutra	28
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	5	13/12/2021	Compra	20
+TFCO4	Track & Field	Bens de Consumo e Varejo	5	13/12/2021	Compra	18
+VIVA3	Vivara	Bens de Consumo e Varejo	5	13/12/2021	Compra	37
+VIIA3	Via	Bens de Consumo e Varejo	5	13/12/2021	Sob Revisão	 - 
+ABEV3	Ambev	Alimentos e Bebidas	5	13/12/2021	Neutra	19
+BEEF3	Minerva Foods	Alimentos e Bebidas	5	13/12/2021	Compra	17
+BRFS3	BRF Foods	Alimentos e Bebidas	5	13/12/2021	Neutra	24
+CAML3	Camil Alimentos	Alimentos e Bebidas	5	13/12/2021	Neutra	11
+JBSS3	JBS	Alimentos e Bebidas	5	13/12/2021	Compra	47
+MDIA3	M Dias Branco	Alimentos e Bebidas	5	13/12/2021	Neutra	30
+MRFG3	Marfrig	Alimentos e Bebidas	5	13/12/2021	Compra	26
+AFYA	Afya Ltd	Saúde e Educação	5	13/12/2021	Compra	38
+ANIM3	Anima Educação	Saúde e Educação	5	13/12/2021	Compra	19
+ARCE	Arco Platform Ltd	Saúde e Educação	5	13/12/2021	Compra	47
+COGN3	Cogna	Saúde e Educação	5	13/12/2021	Neutra	6
+SEER3	Ser Educacional	Saúde e Educação	5	13/12/2021	Neutra	22
+VTRU	Vitru	Saúde e Educação	5	13/12/2021	Compra	24
+YDUQ3	YDUQS	Saúde e Educação	5	13/12/2021	Neutra	45
+AALR3	Alliar	Saúde e Educação	5	13/12/2021	Neutra	15
+BLAU3	Blau Framacêutica	Saúde e Educação	5	13/12/2021	Compra	68
+DASA3	Dasa	Saúde e Educação	5	13/12/2021	Compra	81
+FLRY3	Fleury	Saúde e Educação	5	13/12/2021	Neutra	29
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	5	13/12/2021	Compra	84
+HAPV3	Hapvida	Saúde e Educação	5	13/12/2021	Compra	17
+KRSA3	Kora Saude Participacoes	Saúde e Educação	5	13/12/2021	Compra	8
+MATD3	Mater Dei	Saúde e Educação	5	13/12/2021	Compra	23
+ODPV3	Odontoprev	Saúde e Educação	5	13/12/2021	Neutra	14
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	5	13/12/2021	Compra	18
+PARD3	Hermes Pardini	Saúde e Educação	5	13/12/2021	Neutra	26
+PNVL3	Dimed	Saúde e Educação	5	13/12/2021	Compra	20
+QUAL3	Qualicorp	Saúde e Educação	5	13/12/2021	Compra	39
+RDOR3	Rede d or	Saúde e Educação	5	13/12/2021	Compra	67
+VVEO3	CM Hospitalar	Saúde e Educação	5	13/12/2021	Compra	35
+BRDT3	BR Distribuidora	Petróleo, Gás e Petroquímicos	5	13/12/2021	Compra	34
+CSAN3	Cosan	Agronegócio	5	13/12/2021	Compra	30
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	5	13/12/2021	Neutra	13
+OPCT3	Oceanpact	Petróleo, Gás e Petroquímicos	5	13/12/2021	Compra	9
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	5	13/12/2021	Compra	38
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	5	13/12/2021	Compra	22
+RECV3	PetroRecôncavo	Petróleo, Gás e Petroquímicos	5	13/12/2021	Compra	25
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	5	13/12/2021	Compra	26
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	36
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	11
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	5	13/12/2021	Neutra	10
+SYNE3	Cyrela Commercial Properties	Propriedades Comerciais e Construção Civil	5	13/12/2021	Neutra	17
+CURY3	Cury	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	15
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	28
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	21
+EVEN3	Even	Propriedades Comerciais e Construção Civil	5	13/12/2021	Neutra	14
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	33
+HBOR3	Helbor	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	14
+IGTA3	Iguatemi	Propriedades Comerciais e Construção Civil	5	13/12/2021	Neutra	322
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	8
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	36
+LPSB3	Lopes Brasil	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	4
+MDNE3	Moura Dubeux	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	18
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	8
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	21
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	5	13/12/2021	Neutra	19
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	31
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	9
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	5	13/12/2021	Neutra	44
+TCSA3	Tecnisa	Propriedades Comerciais e Construção Civil	5	13/12/2021	Venda	9
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	5	13/12/2021	Compra	29
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	5	13/12/2021	Neutra	72
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	5	13/12/2021	Neutra	25
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	5	13/12/2021	Compra	34
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	5	13/12/2021	Compra	28
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	5	13/12/2021	Compra	74
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	5	13/12/2021	Compra	20
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	5	13/12/2021	Compra	16
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	5	13/12/2021	Compra	90
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	29
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	40
+ELMD3	Eletromidia	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	25
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	14
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	28
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	28
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	19
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	36
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	39
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	43
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Compra	45
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	5	13/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	5	13/12/2021	Neutra	41
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	17
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	16
+GGPS3	GPS Serviços	Serviços	5	13/12/2021	Compra	25
+GOLL4	Gol	Transporte e Logística - Bens de Capital	5	13/12/2021	Neutra	25
+JSLG3	JSL	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	15
+LOGN3	Log-In	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	22
+MOVI3	Movida	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	23
+MYPK3	Iochpe-Maxion	Indústria	5	13/12/2021	Compra	20
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	5	13/12/2021	Neutra	3
+RAPT4	Randon	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	16
+SIMH3	Simpar	Serviços bancários e financeiros	5	13/12/2021	Compra	13
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	9
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	22
+TUPY3	Tupy	Indústria	5	13/12/2021	Compra	27
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	5	13/12/2021	Compra	19
+WEGE3	WEG	Indústria	5	13/12/2021	Neutra	46
+ALUP11	Alupar	Serviços de utilidade pública	5	13/12/2021	Compra	35
+AESB3	AES Brasil	Serviços de utilidade pública	5	13/12/2021	Compra	14
+CMIG4	Cemig	Serviços de utilidade pública	5	13/12/2021	Neutra	13
+CPFE3	CPFL Energia	Serviços de utilidade pública	5	13/12/2021	Compra	37
+CPLE6	Copel	Serviços de utilidade pública	5	13/12/2021	Compra	7
+CSMG3	Copasa	Serviços de utilidade pública	5	13/12/2021	Neutra	19
+EGIE3	Engie Brasil	Serviços de utilidade pública	5	13/12/2021	Compra	44
+ELET3	Eletrobras	Serviços de utilidade pública	5	13/12/2021	Compra	53
+ENEV3	Eneva	Serviços de utilidade pública	5	13/12/2021	Compra	19
+ENGI11	Energisa	Serviços de utilidade pública	5	13/12/2021	Compra	65
+EQTL3	Equatorial	Serviços de utilidade pública	5	13/12/2021	Compra	29
+LIGT3	Light S/A	Serviços de utilidade pública	5	13/12/2021	Neutra	21
+NEOE3	Neoenergia	Serviços de utilidade pública	5	13/12/2021	Compra	27
+OMGE3	Omega Geração	Serviços de utilidade pública	5	13/12/2021	Compra	38
+SAPR11	Sanepar	Serviços de utilidade pública	5	13/12/2021	Neutra	40
+SBSP3	Sabesp	Serviços de utilidade pública	5	13/12/2021	Compra	65
+TAEE11	Taesa	Serviços de utilidade pública	5	13/12/2021	Venda	37
+TRPL4	CTEEP	Serviços de utilidade pública	5	13/12/2021	Neutra	28
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	4	13/12/2021	Sob Revisão	 - 
+CASH3	Meliuz	Serviços bancários e financeiros	4	13/12/2021	Compra	8
+BBDC4	Bradesco	Serviços bancários e financeiros	4	13/12/2021	Compra	30
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	4	13/12/2021	Compra	60
+MOVI3	Movida	Transporte e Logística - Bens de Capital	1	13/12/2021	Compra	28
+JBSS3	JBS	Alimentos e Bebidas	4	14/12/2021	Compra	50
+COGN3	Cogna	Saúde e Educação	4	14/12/2021	Sob Revisão	 - 
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	4	14/12/2021	Compra	91
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	10
+OFSA3	Ouro Fino	Agronegócio	5	14/12/2021	Compra	52
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	27
+SLCE3	SLC Agricola	Agronegócio	5	14/12/2021	Compra	55
+SMTO3	São Martinho	Agronegócio	5	14/12/2021	Compra	42
+SOJA3	Boa Safra	Agronegócio	5	14/12/2021	Compra	19
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	5	14/12/2021	Compra	24
+B3SA3	B3	Serviços bancários e financeiros	5	14/12/2021	Compra	22
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	5	14/12/2021	Compra	42
+BBDC4	Bradesco	Serviços bancários e financeiros	5	14/12/2021	Neutra	25
+BBSE3	BB Seguridade	Serviços bancários e financeiros	5	14/12/2021	Compra	32
+BOAS3	Boa Vista Serviços	Serviços bancários e financeiros	5	14/12/2021	Compra	16
+BIDI11	Banco Inter	Serviços bancários e financeiros	5	14/12/2021	Compra	77
+BPAC11	Banco BTG Pactual	Serviços bancários e financeiros	5	14/12/2021	Compra	34
+BPAN4	Banco Pan	Serviços bancários e financeiros	5	14/12/2021	Compra	25
+BRSR6	Banrisul	Serviços bancários e financeiros	5	14/12/2021	Neutra	15
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	5	14/12/2021	Compra	30
+CASH3	Meliuz	Serviços bancários e financeiros	5	14/12/2021	Compra	11
+CIEL3	Cielo	Serviços bancários e financeiros	5	14/12/2021	Neutra	5
+CXSE3	Caixa Seguridade	Serviços bancários e financeiros	5	14/12/2021	Compra	18
+DOTZ3	Dotz	Serviços bancários e financeiros	5	14/12/2021	Compra	22
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	5	14/12/2021	Sob Revisão	 - 
+MOSI3	Mosaico	Bens de Consumo e Varejo	5	14/12/2021	Neutra	13
+MODL11	Banco Modal	Serviços bancários e financeiros	5	14/12/2021	Neutra	20
+PAGS	Pag Seguro	Serviços bancários e financeiros	5	14/12/2021	Compra	70
+PAX	Patria Investments	Serviços bancários e financeiros	5	14/12/2021	Compra	21
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	5	14/12/2021	Neutra	41
+STNE	Stoneco Ltda	Serviços bancários e financeiros	5	14/12/2021	Compra	65
+VINP	Vinci Partners	Serviços bancários e financeiros	5	14/12/2021	Compra	18
+WIZS3	WIZ	Serviços bancários e financeiros	5	14/12/2021	Compra	23
+AMAR3	Lojas Marisa	Bens de Consumo e Varejo	5	14/12/2021	Sob Revisão	 - 
+ALLD3	Allied	Bens de Consumo e Varejo	5	14/12/2021	Compra	32
+ARCO	Arcos Dorados	Bens de Consumo e Varejo	5	14/12/2021	Compra	8
+ASAI3	Assaí	Bens de Consumo e Varejo	5	14/12/2021	Compra	21
+BKBR3	BK Brasil	Bens de Consumo e Varejo	5	14/12/2021	Compra	12
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	5	14/12/2021	Compra	74
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	5	14/12/2021	Neutra	40
+CRFB3	Carrefour	Bens de Consumo e Varejo	5	14/12/2021	Compra	24
+CVCB3	CVC	Bens de Consumo e Varejo	5	14/12/2021	Sob Revisão	 - 
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	5	14/12/2021	Compra	22
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	5	14/12/2021	Compra	9
+GUAR3	Guararapes	Bens de Consumo e Varejo	5	14/12/2021	Compra	25
+HGTX3	Cia Henrig	Bens de Consumo e Varejo	5	14/12/2021	Sob Revisão	 - 
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	5	14/12/2021	Compra	41
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	5	14/12/2021	Compra	29
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	5	14/12/2021	Compra	25
+LREN3	Lojas Renner	Bens de Consumo e Varejo	5	14/12/2021	Compra	51
+MEAL3	IMC	Bens de Consumo e Varejo	5	14/12/2021	Neutra	4
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	5	14/12/2021	Compra	24
+MBLY3	Mobly	Bens de Consumo e Varejo	5	14/12/2021	Sob Revisão	 - 
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	15
+NTCO3	Natura	Bens de Consumo e Varejo	5	14/12/2021	Compra	40
+PCAR3	GPA	Bens de Consumo e Varejo	5	14/12/2021	Compra	39
+PGMN3	Pague Menos	Saúde e Educação	5	14/12/2021	Compra	16
+SMFT3	Smartfit	Saúde e Educação	5	14/12/2021	Compra	33
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	5	14/12/2021	Neutra	28
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	5	14/12/2021	Compra	20
+TFCO4	Track & Field	Bens de Consumo e Varejo	5	14/12/2021	Compra	18
+VIVA3	Vivara	Bens de Consumo e Varejo	5	14/12/2021	Compra	37
+VIIA3	Via	Bens de Consumo e Varejo	5	14/12/2021	Sob Revisão	 - 
+ABEV3	Ambev	Alimentos e Bebidas	5	14/12/2021	Neutra	19
+BEEF3	Minerva Foods	Alimentos e Bebidas	5	14/12/2021	Compra	17
+BRFS3	BRF Foods	Alimentos e Bebidas	5	14/12/2021	Neutra	24
+CAML3	Camil Alimentos	Alimentos e Bebidas	5	14/12/2021	Neutra	11
+JBSS3	JBS	Alimentos e Bebidas	5	14/12/2021	Compra	47
+MDIA3	M Dias Branco	Alimentos e Bebidas	5	14/12/2021	Neutra	30
+MRFG3	Marfrig	Alimentos e Bebidas	5	14/12/2021	Compra	26
+AFYA	Afya Ltd	Saúde e Educação	5	14/12/2021	Compra	38
+ANIM3	Anima Educação	Saúde e Educação	5	14/12/2021	Compra	19
+ARCE	Arco Platform Ltd	Saúde e Educação	5	14/12/2021	Compra	47
+COGN3	Cogna	Saúde e Educação	5	14/12/2021	Neutra	6
+SEER3	Ser Educacional	Saúde e Educação	5	14/12/2021	Neutra	22
+VTRU	Vitru	Saúde e Educação	5	14/12/2021	Compra	24
+YDUQ3	YDUQS	Saúde e Educação	5	14/12/2021	Neutra	45
+AALR3	Alliar	Saúde e Educação	5	14/12/2021	Neutra	15
+BLAU3	Blau Framacêutica	Saúde e Educação	5	14/12/2021	Compra	68
+DASA3	Dasa	Saúde e Educação	5	14/12/2021	Compra	81
+FLRY3	Fleury	Saúde e Educação	5	14/12/2021	Neutra	29
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	5	14/12/2021	Compra	84
+HAPV3	Hapvida	Saúde e Educação	5	14/12/2021	Compra	17
+KRSA3	Kora Saude Participacoes	Saúde e Educação	5	14/12/2021	Compra	8
+MATD3	Mater Dei	Saúde e Educação	5	14/12/2021	Compra	23
+ODPV3	Odontoprev	Saúde e Educação	5	14/12/2021	Neutra	14
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	5	14/12/2021	Compra	18
+PARD3	Hermes Pardini	Saúde e Educação	5	14/12/2021	Neutra	26
+PNVL3	Dimed	Saúde e Educação	5	14/12/2021	Compra	20
+QUAL3	Qualicorp	Saúde e Educação	5	14/12/2021	Compra	39
+RDOR3	Rede d or	Saúde e Educação	5	14/12/2021	Compra	67
+VVEO3	CM Hospitalar	Saúde e Educação	5	14/12/2021	Compra	35
+BRDT3	BR Distribuidora	Petróleo, Gás e Petroquímicos	5	14/12/2021	Compra	34
+CSAN3	Cosan	Agronegócio	5	14/12/2021	Compra	30
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	5	14/12/2021	Neutra	13
+OPCT3	Oceanpact	Petróleo, Gás e Petroquímicos	5	14/12/2021	Compra	9
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	5	14/12/2021	Compra	38
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	5	14/12/2021	Compra	22
+RECV3	PetroRecôncavo	Petróleo, Gás e Petroquímicos	5	14/12/2021	Compra	25
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	5	14/12/2021	Compra	26
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	36
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	11
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	5	14/12/2021	Neutra	10
+SYNE3	Cyrela Commercial Properties	Propriedades Comerciais e Construção Civil	5	14/12/2021	Neutra	17
+CURY3	Cury	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	15
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	28
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	21
+EVEN3	Even	Propriedades Comerciais e Construção Civil	5	14/12/2021	Neutra	14
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	33
+HBOR3	Helbor	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	14
+IGTA3	Iguatemi	Propriedades Comerciais e Construção Civil	5	14/12/2021	Neutra	322
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	8
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	36
+LPSB3	Lopes Brasil	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	4
+MDNE3	Moura Dubeux	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	18
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	8
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	21
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	5	14/12/2021	Neutra	19
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	31
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	9
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	5	14/12/2021	Neutra	44
+TCSA3	Tecnisa	Propriedades Comerciais e Construção Civil	5	14/12/2021	Venda	9
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	5	14/12/2021	Compra	29
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	5	14/12/2021	Neutra	72
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	5	14/12/2021	Neutra	25
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	5	14/12/2021	Compra	34
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	5	14/12/2021	Compra	28
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	5	14/12/2021	Compra	74
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	5	14/12/2021	Compra	20
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	5	14/12/2021	Compra	16
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	5	14/12/2021	Compra	90
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	29
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	40
+ELMD3	Eletromidia	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	25
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	14
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	28
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	28
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	19
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	36
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	39
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	43
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Compra	45
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	5	14/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	5	14/12/2021	Neutra	41
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	17
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	16
+GGPS3	GPS Serviços	Serviços	5	14/12/2021	Compra	25
+GOLL4	Gol	Transporte e Logística - Bens de Capital	5	14/12/2021	Neutra	25
+JSLG3	JSL	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	14
+LOGN3	Log-In	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	22
+MOVI3	Movida	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	23
+MYPK3	Iochpe-Maxion	Indústria	5	14/12/2021	Compra	20
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	5	14/12/2021	Neutra	3
+RAPT4	Randon	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	16
+SIMH3	Simpar	Serviços bancários e financeiros	5	14/12/2021	Compra	13
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	9
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	22
+TUPY3	Tupy	Indústria	5	14/12/2021	Compra	27
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	5	14/12/2021	Compra	19
+WEGE3	WEG	Indústria	5	14/12/2021	Neutra	46
+ALUP11	Alupar	Serviços de utilidade pública	5	14/12/2021	Compra	35
+AESB3	AES Brasil	Serviços de utilidade pública	5	14/12/2021	Compra	14
+CMIG4	Cemig	Serviços de utilidade pública	5	14/12/2021	Neutra	13
+CPFE3	CPFL Energia	Serviços de utilidade pública	5	14/12/2021	Compra	37
+CPLE6	Copel	Serviços de utilidade pública	5	14/12/2021	Compra	7
+CSMG3	Copasa	Serviços de utilidade pública	5	14/12/2021	Neutra	19
+EGIE3	Engie Brasil	Serviços de utilidade pública	5	14/12/2021	Compra	44
+ELET3	Eletrobras	Serviços de utilidade pública	5	14/12/2021	Compra	53
+ENEV3	Eneva	Serviços de utilidade pública	5	14/12/2021	Compra	19
+ENGI11	Energisa	Serviços de utilidade pública	5	14/12/2021	Compra	65
+EQTL3	Equatorial	Serviços de utilidade pública	5	14/12/2021	Compra	29
+LIGT3	Light S/A	Serviços de utilidade pública	5	14/12/2021	Neutra	21
+NEOE3	Neoenergia	Serviços de utilidade pública	5	14/12/2021	Compra	27
+OMGE3	Omega Geração	Serviços de utilidade pública	5	14/12/2021	Compra	38
+SAPR11	Sanepar	Serviços de utilidade pública	5	14/12/2021	Neutra	40
+SBSP3	Sabesp	Serviços de utilidade pública	5	14/12/2021	Compra	65
+TAEE11	Taesa	Serviços de utilidade pública	5	14/12/2021	Venda	37
+TRPL4	CTEEP	Serviços de utilidade pública	5	14/12/2021	Neutra	28
+ENEV3	Eneva	Serviços de utilidade pública	1	15/12/2021	Neutra	16
+ITSA4	Itausa	Serviços bancários e financeiros	4	15/12/2021	Compra	14
+AESB3	AES Brasil	Serviços de utilidade pública	4	15/12/2021	Compra	16
+SYNE3	Cyrela Commercial Properties	Propriedades Comerciais e Construção Civil	4	15/12/2021	Sob Revisão	 - 
+OIBR3	Oi	Telecomunicações, Mídia e Tecnologia	4	15/12/2021	Neutra	1
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	10
+OFSA3	Ouro Fino	Agronegócio	5	15/12/2021	Compra	52
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	27
+SLCE3	SLC Agricola	Agronegócio	5	15/12/2021	Compra	55
+SMTO3	São Martinho	Agronegócio	5	15/12/2021	Compra	42
+SOJA3	Boa Safra	Agronegócio	5	15/12/2021	Compra	19
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	5	15/12/2021	Compra	24
+B3SA3	B3	Serviços bancários e financeiros	5	15/12/2021	Compra	22
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	5	15/12/2021	Compra	42
+BBDC4	Bradesco	Serviços bancários e financeiros	5	15/12/2021	Neutra	25
+BBSE3	BB Seguridade	Serviços bancários e financeiros	5	15/12/2021	Compra	32
+BOAS3	Boa Vista Serviços	Serviços bancários e financeiros	5	15/12/2021	Compra	16
+BIDI11	Banco Inter	Serviços bancários e financeiros	5	15/12/2021	Compra	77
+BPAC11	Banco BTG Pactual	Serviços bancários e financeiros	5	15/12/2021	Compra	34
+BPAN4	Banco Pan	Serviços bancários e financeiros	5	15/12/2021	Compra	25
+BRSR6	Banrisul	Serviços bancários e financeiros	5	15/12/2021	Neutra	15
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	5	15/12/2021	Compra	30
+CASH3	Meliuz	Serviços bancários e financeiros	5	15/12/2021	Compra	11
+CIEL3	Cielo	Serviços bancários e financeiros	5	15/12/2021	Neutra	5
+CXSE3	Caixa Seguridade	Serviços bancários e financeiros	5	15/12/2021	Compra	18
+DOTZ3	Dotz	Serviços bancários e financeiros	5	15/12/2021	Compra	22
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	5	15/12/2021	Sob Revisão	 - 
+MOSI3	Mosaico	Bens de Consumo e Varejo	5	15/12/2021	Neutra	13
+MODL11	Banco Modal	Serviços bancários e financeiros	5	15/12/2021	Neutra	20
+PAGS	Pag Seguro	Serviços bancários e financeiros	5	15/12/2021	Compra	70
+PAX	Patria Investments	Serviços bancários e financeiros	5	15/12/2021	Compra	21
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	5	15/12/2021	Neutra	41
+STNE	Stoneco Ltda	Serviços bancários e financeiros	5	15/12/2021	Compra	65
+VINP	Vinci Partners	Serviços bancários e financeiros	5	15/12/2021	Compra	18
+WIZS3	WIZ	Serviços bancários e financeiros	5	15/12/2021	Compra	23
+AMAR3	Lojas Marisa	Bens de Consumo e Varejo	5	15/12/2021	Sob Revisão	 - 
+ALLD3	Allied	Bens de Consumo e Varejo	5	15/12/2021	Compra	32
+ARCO	Arcos Dorados	Bens de Consumo e Varejo	5	15/12/2021	Compra	8
+ASAI3	Assaí	Bens de Consumo e Varejo	5	15/12/2021	Compra	21
+BKBR3	BK Brasil	Bens de Consumo e Varejo	5	15/12/2021	Compra	12
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	5	15/12/2021	Compra	74
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	5	15/12/2021	Neutra	40
+CRFB3	Carrefour	Bens de Consumo e Varejo	5	15/12/2021	Compra	24
+CVCB3	CVC	Bens de Consumo e Varejo	5	15/12/2021	Sob Revisão	 - 
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	5	15/12/2021	Compra	22
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	5	15/12/2021	Compra	9
+GUAR3	Guararapes	Bens de Consumo e Varejo	5	15/12/2021	Compra	25
+HGTX3	Cia Henrig	Bens de Consumo e Varejo	5	15/12/2021	Sob Revisão	 - 
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	5	15/12/2021	Compra	41
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	5	15/12/2021	Compra	29
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	5	15/12/2021	Compra	25
+LREN3	Lojas Renner	Bens de Consumo e Varejo	5	15/12/2021	Compra	51
+MEAL3	IMC	Bens de Consumo e Varejo	5	15/12/2021	Neutra	4
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	5	15/12/2021	Compra	24
+MBLY3	Mobly	Bens de Consumo e Varejo	5	15/12/2021	Sob Revisão	 - 
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	15
+NTCO3	Natura	Bens de Consumo e Varejo	5	15/12/2021	Compra	40
+PCAR3	GPA	Bens de Consumo e Varejo	5	15/12/2021	Compra	39
+PGMN3	Pague Menos	Saúde e Educação	5	15/12/2021	Compra	16
+SMFT3	Smartfit	Saúde e Educação	5	15/12/2021	Compra	33
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	5	15/12/2021	Neutra	28
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	5	15/12/2021	Compra	20
+TFCO4	Track & Field	Bens de Consumo e Varejo	5	15/12/2021	Compra	18
+VIVA3	Vivara	Bens de Consumo e Varejo	5	15/12/2021	Compra	37
+VIIA3	Via	Bens de Consumo e Varejo	5	15/12/2021	Sob Revisão	 - 
+ABEV3	Ambev	Alimentos e Bebidas	5	15/12/2021	Neutra	19
+BEEF3	Minerva Foods	Alimentos e Bebidas	5	15/12/2021	Compra	17
+BRFS3	BRF Foods	Alimentos e Bebidas	5	15/12/2021	Neutra	24
+CAML3	Camil Alimentos	Alimentos e Bebidas	5	15/12/2021	Neutra	11
+JBSS3	JBS	Alimentos e Bebidas	5	15/12/2021	Compra	47
+MDIA3	M Dias Branco	Alimentos e Bebidas	5	15/12/2021	Neutra	30
+MRFG3	Marfrig	Alimentos e Bebidas	5	15/12/2021	Compra	26
+AFYA	Afya Ltd	Saúde e Educação	5	15/12/2021	Compra	38
+ANIM3	Anima Educação	Saúde e Educação	5	15/12/2021	Compra	19
+ARCE	Arco Platform Ltd	Saúde e Educação	5	15/12/2021	Compra	47
+COGN3	Cogna	Saúde e Educação	5	15/12/2021	Neutra	6
+SEER3	Ser Educacional	Saúde e Educação	5	15/12/2021	Neutra	22
+VTRU	Vitru	Saúde e Educação	5	15/12/2021	Compra	24
+YDUQ3	YDUQS	Saúde e Educação	5	15/12/2021	Neutra	45
+AALR3	Alliar	Saúde e Educação	5	15/12/2021	Neutra	15
+BLAU3	Blau Framacêutica	Saúde e Educação	5	15/12/2021	Compra	68
+DASA3	Dasa	Saúde e Educação	5	15/12/2021	Compra	81
+FLRY3	Fleury	Saúde e Educação	5	15/12/2021	Neutra	25
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	5	15/12/2021	Compra	84
+HAPV3	Hapvida	Saúde e Educação	5	15/12/2021	Compra	17
+KRSA3	Kora Saude Participacoes	Saúde e Educação	5	15/12/2021	Compra	8
+MATD3	Mater Dei	Saúde e Educação	5	15/12/2021	Compra	23
+ODPV3	Odontoprev	Saúde e Educação	5	15/12/2021	Neutra	14
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	5	15/12/2021	Compra	18
+PARD3	Hermes Pardini	Saúde e Educação	5	15/12/2021	Neutra	26
+PNVL3	Dimed	Saúde e Educação	5	15/12/2021	Compra	20
+QUAL3	Qualicorp	Saúde e Educação	5	15/12/2021	Compra	39
+RDOR3	Rede d or	Saúde e Educação	5	15/12/2021	Compra	67
+VVEO3	CM Hospitalar	Saúde e Educação	5	15/12/2021	Compra	35
+BRDT3	BR Distribuidora	Petróleo, Gás e Petroquímicos	5	15/12/2021	Compra	34
+CSAN3	Cosan	Agronegócio	5	15/12/2021	Compra	30
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	5	15/12/2021	Neutra	13
+OPCT3	Oceanpact	Petróleo, Gás e Petroquímicos	5	15/12/2021	Compra	9
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	5	15/12/2021	Compra	38
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	5	15/12/2021	Compra	22
+RECV3	PetroRecôncavo	Petróleo, Gás e Petroquímicos	5	15/12/2021	Compra	25
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	5	15/12/2021	Compra	26
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	36
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	11
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	5	15/12/2021	Neutra	10
+SYNE3	Cyrela Commercial Properties	Propriedades Comerciais e Construção Civil	5	15/12/2021	Neutra	17
+CURY3	Cury	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	15
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	28
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	21
+EVEN3	Even	Propriedades Comerciais e Construção Civil	5	15/12/2021	Neutra	14
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	33
+HBOR3	Helbor	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	14
+IGTA3	Iguatemi	Propriedades Comerciais e Construção Civil	5	15/12/2021	Neutra	322
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	8
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	36
+LPSB3	Lopes Brasil	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	4
+MDNE3	Moura Dubeux	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	18
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	8
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	21
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	5	15/12/2021	Neutra	19
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	31
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	9
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	5	15/12/2021	Neutra	44
+TCSA3	Tecnisa	Propriedades Comerciais e Construção Civil	5	15/12/2021	Venda	9
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	5	15/12/2021	Compra	29
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	5	15/12/2021	Neutra	72
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	5	15/12/2021	Neutra	25
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	5	15/12/2021	Compra	34
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	5	15/12/2021	Compra	28
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	5	15/12/2021	Compra	74
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	5	15/12/2021	Compra	20
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	5	15/12/2021	Compra	16
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	5	15/12/2021	Compra	90
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	29
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	40
+ELMD3	Eletromidia	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	25
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	14
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	28
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	28
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	19
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	36
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	39
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	43
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Compra	45
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	5	15/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	5	15/12/2021	Neutra	41
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	17
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	16
+GGPS3	GPS Serviços	Serviços	5	15/12/2021	Compra	25
+GOLL4	Gol	Transporte e Logística - Bens de Capital	5	15/12/2021	Neutra	25
+JSLG3	JSL	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	14
+LOGN3	Log-In	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	22
+MOVI3	Movida	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	23
+MYPK3	Iochpe-Maxion	Indústria	5	15/12/2021	Compra	20
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	5	15/12/2021	Neutra	3
+RAPT4	Randon	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	16
+SIMH3	Simpar	Serviços bancários e financeiros	5	15/12/2021	Compra	13
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	9
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	22
+TUPY3	Tupy	Indústria	5	15/12/2021	Compra	27
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	5	15/12/2021	Compra	19
+WEGE3	WEG	Indústria	5	15/12/2021	Neutra	46
+ALUP11	Alupar	Serviços de utilidade pública	5	15/12/2021	Compra	35
+AESB3	AES Brasil	Serviços de utilidade pública	5	15/12/2021	Compra	14
+CMIG4	Cemig	Serviços de utilidade pública	5	15/12/2021	Neutra	13
+CPFE3	CPFL Energia	Serviços de utilidade pública	5	15/12/2021	Compra	37
+CPLE6	Copel	Serviços de utilidade pública	5	15/12/2021	Compra	7
+CSMG3	Copasa	Serviços de utilidade pública	5	15/12/2021	Neutra	19
+EGIE3	Engie Brasil	Serviços de utilidade pública	5	15/12/2021	Compra	44
+ELET3	Eletrobras	Serviços de utilidade pública	5	15/12/2021	Compra	53
+ENEV3	Eneva	Serviços de utilidade pública	5	15/12/2021	Compra	19
+ENGI11	Energisa	Serviços de utilidade pública	5	15/12/2021	Compra	65
+EQTL3	Equatorial	Serviços de utilidade pública	5	15/12/2021	Compra	29
+LIGT3	Light S/A	Serviços de utilidade pública	5	15/12/2021	Neutra	21
+NEOE3	Neoenergia	Serviços de utilidade pública	5	15/12/2021	Compra	27
+OMGE3	Omega Geração	Serviços de utilidade pública	5	15/12/2021	Compra	38
+SAPR11	Sanepar	Serviços de utilidade pública	5	15/12/2021	Neutra	40
+SBSP3	Sabesp	Serviços de utilidade pública	5	15/12/2021	Compra	65
+TAEE11	Taesa	Serviços de utilidade pública	5	15/12/2021	Venda	37
+TRPL4	CTEEP	Serviços de utilidade pública	5	15/12/2021	Neutra	28
+ALPA4	Alpargatas	Bens de Consumo e Varejo	1	15/12/2021	Compra	58
+ITUB4	Itaú Unibanco	Serviços bancários e financeiros	6	15/12/2021	Neutra	28
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	6	15/12/2021	Compra	52
+BRSR6	Banrisul	Serviços bancários e financeiros	6	15/12/2021	Compra	19
+BBDC4	Bradesco	Serviços bancários e financeiros	6	15/12/2021	Neutra	26
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	6	15/12/2021	Venda	36
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	6	15/12/2021	Compra	29
+BRFS3	BRF Foods	Alimentos e Bebidas	6	15/12/2021	Neutra	30
+JBSS3	JBS	Alimentos e Bebidas	6	15/12/2021	Compra	40
+ABEV3	Ambev	Alimentos e Bebidas	6	15/12/2021	Compra	20
+MRFG3	Marfrig	Alimentos e Bebidas	6	15/12/2021	Compra	24
+JALL3	Jalles Machado	Agronegócio	6	15/12/2021	Compra	14
+SMTO3	São Martinho	Agronegócio	6	15/12/2021	Compra	38
+SOJA3	Boa Safra	Agronegócio	6	15/12/2021	Compra	18
+AGRO3	Brasil Agro	Agronegócio	6	15/12/2021	Compra	33
+BEEF3	Minerva Foods	Alimentos e Bebidas	6	15/12/2021	Sob Revisão	 - 
+MDIA3	M Dias Branco	Alimentos e Bebidas	6	15/12/2021	Sob Revisão	 - 
+SLCE3	SLC Agricola	Agronegócio	6	15/12/2021	Sob Revisão	 - 
+CAML3	Camil Alimentos	Alimentos e Bebidas	6	15/12/2021	Sob Revisão	 - 
+WEGE3	WEG	Indústria	6	15/12/2021	Compra	50
+AERI3	Aeris Energy	Indústria	6	15/12/2021	Neutra	10
+RAPT4	Randon	Transporte e Logística - Bens de Capital	6	15/12/2021	Compra	18
+FRAS3	Fras-Le	Indústria	6	15/12/2021	Neutra	16
+TUPY3	Tupy	Indústria	6	15/12/2021	Compra	32
+MYPK3	Iochpe-Maxion	Indústria	6	15/12/2021	Compra	27
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	6	15/12/2021	Neutra	3
+EMBR3	Embraer	Transporte e Logística - Bens de Capital	6	15/12/2021	Sob Revisão	 - 
+LEVE3	MAHLE Metal Leve	Indústria	6	15/12/2021	Sob Revisão	 - 
+ANIM3	Anima Educação	Saúde e Educação	6	15/12/2021	Compra	15
+YDUQ3	YDUQS	Saúde e Educação	6	15/12/2021	Compra	51
+COGN3	Cogna	Saúde e Educação	6	15/12/2021	Neutra	5
+SEER3	Ser Educacional	Saúde e Educação	6	15/12/2021	Neutra	17
+CSED3	Cruzeiro do Sul	Saúde e Educação	6	15/12/2021	Sob Revisão	 - 
+AESB3	AES Brasil	Serviços de utilidade pública	6	15/12/2021	Compra	16
+EGIE3	Engie Brasil	Serviços de utilidade pública	6	15/12/2021	Neutra	49
+CMIG4	Cemig	Serviços de utilidade pública	6	15/12/2021	Neutra	13
+CIG	Cemig ADR	Serviços de utilidade pública	6	15/12/2021	Neutra	3
+EQTL3	Equatorial	Serviços de utilidade pública	6	15/12/2021	Compra	30
+TRPL4	CTEEP	Serviços de utilidade pública	6	15/12/2021	Neutra	26
+TAEE11	Taesa	Serviços de utilidade pública	6	15/12/2021	Neutra	38
+ENBR3	EDP Brasil	Serviços de utilidade pública	6	15/12/2021	Compra	22
+CPLE6	Copel	Serviços de utilidade pública	6	15/12/2021	Compra	8
+ELP	Copel ADR	Serviços de utilidade pública	6	15/12/2021	Compra	2
+OMGE3	Omega Geração	Serviços de utilidade pública	6	15/12/2021	Compra	48
+CESP6	Cesp	Serviços de utilidade pública	6	15/12/2021	Compra	33
+CPFE3	CPFL Energia	Serviços de utilidade pública	6	15/12/2021	Sob Revisão	 - 
+ELET3	Eletrobras	Serviços de utilidade pública	6	15/12/2021	Sob Revisão	 - 
+ELET6	Eletrobras	Serviços de utilidade pública	6	15/12/2021	Sob Revisão	 - 
+ENEV3	Eneva	Serviços de utilidade pública	6	15/12/2021	Sob Revisão	 - 
+ENGI11	Energisa	Serviços de utilidade pública	6	15/12/2021	Sob Revisão	 - 
+LIGT3	Light S/A	Serviços de utilidade pública	6	15/12/2021	Sob Revisão	 - 
+ALUP11	Alupar	Serviços de utilidade pública	6	15/12/2021	Sob Revisão	 - 
+BRKM5	Braskem	Indústria	6	15/12/2021	Sob Revisão	 - 
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	6	15/12/2021	Sob Revisão	 - 
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	6	15/12/2021	Sob Revisão	 - 
+DXCO3	Duratex S.A.	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Sob Revisão	 - 
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Compra	97
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Compra	18
+CMIN3	CSN Mineração	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Compra	8
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Compra	34
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Neutra	15
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Compra	95
+CBAV3	Companhia Brasileira de Alumínio	Indústria	6	15/12/2021	Compra	18
+BRAP4	Bradespar	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Compra	37
+GOAU4	Metalúrgica Gerdau	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Compra	15
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Compra	31
+RANI3	Irani	Mineração, Siderurgia, Papel e Celulose	6	15/12/2021	Neutra	8
+SAPR11	Sanepar	Serviços de utilidade pública	6	15/12/2021	Neutra	26
+SBSP3	Sabesp	Serviços de utilidade pública	6	15/12/2021	Neutra	52
+CSMG3	Copasa	Serviços de utilidade pública	6	15/12/2021	Venda	15
+ORVR3	Orizon	Serviços de utilidade pública	6	15/12/2021	Compra	30
+RDOR3	Rede d or	Saúde e Educação	6	15/12/2021	Compra	88
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	6	15/12/2021	Compra	110
+AALR3	Alliar	Saúde e Educação	6	15/12/2021	Neutra	10
+FLRY3	Fleury	Saúde e Educação	6	15/12/2021	Neutra	29
+PARD3	Hermes Pardini	Saúde e Educação	6	15/12/2021	Neutra	21
+BLAU3	Blau Framacêutica	Saúde e Educação	6	15/12/2021	Compra	64
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	6	15/12/2021	Compra	48
+KRSA3	Kora Saude Participacoes	Saúde e Educação	6	15/12/2021	Compra	12
+DASA3	Dasa	Saúde e Educação	6	15/12/2021	Sob Revisão	 - 
+MATD3	Mater Dei	Saúde e Educação	6	15/12/2021	Sob Revisão	 - 
+QUAL3	Qualicorp	Saúde e Educação	6	15/12/2021	Sob Revisão	 - 
+ODPV3	Odontoprev	Saúde e Educação	6	15/12/2021	Sob Revisão	 - 
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	6	15/12/2021	Sob Revisão	 - 
+CASH3	Meliuz	Serviços bancários e financeiros	6	15/12/2021	Compra	8
+G2DI33	G2D Investments	Serviços bancários e financeiros	6	15/12/2021	Compra	11
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Compra	30
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Compra	35
+POSI3	Positivo Tecnologia	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Compra	16
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Compra	48
+BRIT3	Brisanet Participacoes	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Compra	17
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Compra	13
+TIMS3	TIM	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Sob Revisão	 - 
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Sob Revisão	 - 
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	6	15/12/2021	Compra	16
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	6	15/12/2021	Neutra	12
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	6	15/12/2021	Compra	24
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	6	15/12/2021	Compra	9
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	6	15/12/2021	Neutra	9
+RENT3	Localiza	Transporte e Logística - Bens de Capital	6	15/12/2021	Compra	68
+LCAM3	Unidas	Transporte e Logística - Bens de Capital	6	15/12/2021	Compra	36
+MOVI3	Movida	Transporte e Logística - Bens de Capital	6	15/12/2021	Compra	26
+SIMH3	Simpar	Serviços bancários e financeiros	6	15/12/2021	Compra	15
+JSLG3	JSL	Transporte e Logística - Bens de Capital	6	15/12/2021	Compra	12
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	6	15/12/2021	Sob Revisão	 - 
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	6	15/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	6	15/12/2021	Sob Revisão	 - 
+GOLL4	Gol	Transporte e Logística - Bens de Capital	6	15/12/2021	Sob Revisão	 - 
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	6	15/12/2021	Neutra	18
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	6	15/12/2021	Neutra	45
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	6	15/12/2021	Neutra	8
+VIIA3	Via	Bens de Consumo e Varejo	6	15/12/2021	Neutra	10
+ENJU3	Enjoei	Bens de Consumo e Varejo	6	15/12/2021	Neutra	7
+ARZZ3	Arezzo & Co	Bens de Consumo e Varejo	6	15/12/2021	Compra	108
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	6	15/12/2021	Compra	22
+LREN3	Lojas Renner	Bens de Consumo e Varejo	6	15/12/2021	Compra	43
+VIVA3	Vivara	Bens de Consumo e Varejo	6	15/12/2021	Compra	37
+CEAB3	C&A	Bens de Consumo e Varejo	6	15/12/2021	Neutra	9
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Compra	13
+CRFB3	Carrefour	Bens de Consumo e Varejo	6	15/12/2021	Neutra	22
+PCAR3	GPA	Bens de Consumo e Varejo	6	15/12/2021	Neutra	35
+ASAI3	Assaí	Bens de Consumo e Varejo	6	15/12/2021	Compra	23
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	6	15/12/2021	Compra	10
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	6	15/12/2021	Compra	27
+PGMN3	Pague Menos	Saúde e Educação	6	15/12/2021	Compra	15
+DMVF3	d1000	Bens de Consumo e Varejo	6	15/12/2021	Neutra	8
+NTCO3	Natura	Bens de Consumo e Varejo	6	15/12/2021	Compra	45
+ALPA4	Alpargatas	Bens de Consumo e Varejo	6	15/12/2021	Compra	50
+CVCB3	CVC	Bens de Consumo e Varejo	6	15/12/2021	Sob Revisão	 - 
+GUAR3	Guararapes	Bens de Consumo e Varejo	6	15/12/2021	Sob Revisão	 - 
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	6	15/12/2021	Sob Revisão	 - 
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	33
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	6	15/12/2021	Neutra	23
+EVEN3	Even	Propriedades Comerciais e Construção Civil	6	15/12/2021	Neutra	13
+TRIS3	Trisul	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	14
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	12
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	9
+CURY3	Cury	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	15
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	10
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	38
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	48
+GFSA3	Gafisa	Propriedades Comerciais e Construção Civil	6	15/12/2021	Sob Revisão	 - 
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	30
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	13
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	6	15/12/2021	Neutra	40
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	6	15/12/2021	Sob Revisão	 - 
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	6	15/12/2021	Sob Revisão	 - 
+MEAL3	IMC	Bens de Consumo e Varejo	6	15/12/2021	Neutra	4
+PRNR3	Priner	Indústria	6	15/12/2021	Compra	13
+MILS3	Mills	Propriedades Comerciais e Construção Civil	6	15/12/2021	Compra	8
+ALPK3	Estapar	Propriedades Comerciais e Construção Civil	6	15/12/2021	Neutra	10
+VULC3	Vulcabras Azaleia	Bens de Consumo e Varejo	6	15/12/2021	Compra	12
+GRND3	Grendene	Bens de Consumo e Varejo	6	15/12/2021	Neutra	11
+ALLD3	Allied	Bens de Consumo e Varejo	6	15/12/2021	Compra	38
+BKBR3	BK Brasil	Bens de Consumo e Varejo	6	15/12/2021	Compra	12
+KEPL3	Kepler Weber	Agronegócio	6	15/12/2021	Compra	47
+ARML3	Armac Locacao Logistica e Servicos	Transporte e Logística - Bens de Capital	6	15/12/2021	Sob Revisão	 - 
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Sob Revisão	 - 
+NGRD3	Neogrid	Telecomunicações, Mídia e Tecnologia	6	15/12/2021	Sob Revisão	 - 
+ALUP11	Alupar	Serviços de utilidade pública	4	15/12/2021	Compra	35
+TAEE11	Taesa	Serviços de utilidade pública	4	15/12/2021	Venda	36
+TRPL4	CTEEP	Serviços de utilidade pública	4	15/12/2021	Neutra	27
+EGIE3	Engie Brasil	Serviços de utilidade pública	4	15/12/2021	Compra	49
+MOVI3	Movida	Transporte e Logística - Bens de Capital	1	16/12/2021	Compra	28
+HAPV3	Hapvida	Saúde e Educação	4	16/12/2021	Compra	15
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	4	16/12/2021	Compra	82
+JBSS3	JBS	Alimentos e Bebidas	4	16/12/2021	Compra	50
+RENT3	Localiza	Transporte e Logística - Bens de Capital	4	16/12/2021	Compra	76
+LCAM3	Unidas	Transporte e Logística - Bens de Capital	4	16/12/2021	Compra	32
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	4	16/12/2021	Compra	27
+BIDI11	Banco Inter	Serviços bancários e financeiros	4	16/12/2021	Compra	67
+OIBR3	Oi	Telecomunicações, Mídia e Tecnologia	4	16/12/2021	Neutra	1
+AESB3	AES Brasil	Serviços de utilidade pública	4	16/12/2021	Neutra	16
+RENT3	Localiza	Transporte e Logística - Bens de Capital	4	17/12/2021	Compra	76
+LCAM3	Unidas	Transporte e Logística - Bens de Capital	4	17/12/2021	Compra	32
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	1	17/12/2021	Compra	42
+HBSA3	Hidrovias do Brasil	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	10
+OFSA3	Ouro Fino	Agronegócio	5	17/12/2021	Compra	52
+RAIL3	Rumo S.A.	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	27
+SLCE3	SLC Agricola	Agronegócio	5	17/12/2021	Compra	55
+SMTO3	São Martinho	Agronegócio	5	17/12/2021	Compra	42
+SOJA3	Boa Safra	Agronegócio	5	17/12/2021	Compra	19
+ABCB4	Banco ABC Brasil	Serviços bancários e financeiros	5	17/12/2021	Compra	24
+B3SA3	B3	Serviços bancários e financeiros	5	17/12/2021	Compra	22
+BBAS3	Banco do Brasil	Serviços bancários e financeiros	5	17/12/2021	Compra	42
+BBDC4	Bradesco	Serviços bancários e financeiros	5	17/12/2021	Neutra	25
+BBSE3	BB Seguridade	Serviços bancários e financeiros	5	17/12/2021	Compra	32
+BOAS3	Boa Vista Serviços	Serviços bancários e financeiros	5	17/12/2021	Compra	16
+BIDI11	Banco Inter	Serviços bancários e financeiros	5	17/12/2021	Compra	77
+BPAC11	Banco BTG Pactual	Serviços bancários e financeiros	5	17/12/2021	Compra	34
+BPAN4	Banco Pan	Serviços bancários e financeiros	5	17/12/2021	Compra	25
+BRSR6	Banrisul	Serviços bancários e financeiros	5	17/12/2021	Neutra	15
+BRBI11	BR Advisory Partners Participacoes AS	Serviços bancários e financeiros	5	17/12/2021	Compra	30
+CASH3	Meliuz	Serviços bancários e financeiros	5	17/12/2021	Compra	11
+CIEL3	Cielo	Serviços bancários e financeiros	5	17/12/2021	Neutra	5
+CXSE3	Caixa Seguridade	Serviços bancários e financeiros	5	17/12/2021	Compra	18
+DOTZ3	Dotz	Serviços bancários e financeiros	5	17/12/2021	Compra	22
+IRBR3	IRB Brasil RE	Serviços bancários e financeiros	5	17/12/2021	Sob Revisão	 - 
+MOSI3	Mosaico	Bens de Consumo e Varejo	5	17/12/2021	Neutra	13
+MODL11	Banco Modal	Serviços bancários e financeiros	5	17/12/2021	Neutra	20
+PAGS	Pag Seguro	Serviços bancários e financeiros	5	17/12/2021	Compra	70
+PAX	Patria Investments	Serviços bancários e financeiros	5	17/12/2021	Compra	21
+SANB11	Banco Santander Brasil	Serviços bancários e financeiros	5	17/12/2021	Neutra	41
+STNE	Stoneco Ltda	Serviços bancários e financeiros	5	17/12/2021	Compra	65
+VINP	Vinci Partners	Serviços bancários e financeiros	5	17/12/2021	Compra	18
+WIZS3	WIZ	Serviços bancários e financeiros	5	17/12/2021	Compra	23
+AMAR3	Lojas Marisa	Bens de Consumo e Varejo	5	17/12/2021	Sob Revisão	 - 
+ALLD3	Allied	Bens de Consumo e Varejo	5	17/12/2021	Compra	32
+ARCO	Arcos Dorados	Bens de Consumo e Varejo	5	17/12/2021	Compra	8
+ASAI3	Assaí	Bens de Consumo e Varejo	5	17/12/2021	Compra	21
+BKBR3	BK Brasil	Bens de Consumo e Varejo	5	17/12/2021	Compra	12
+AMER3	Americanas S.A.	Bens de Consumo e Varejo	5	17/12/2021	Compra	74
+SBFG3	Grupo SBF	Bens de Consumo e Varejo	5	17/12/2021	Neutra	40
+CRFB3	Carrefour	Bens de Consumo e Varejo	5	17/12/2021	Compra	24
+CVCB3	CVC	Bens de Consumo e Varejo	5	17/12/2021	Sob Revisão	 - 
+ESPA3	Espaçolaser	Bens de Consumo e Varejo	5	17/12/2021	Compra	22
+GMAT3	Grupo Mateus	Bens de Consumo e Varejo	5	17/12/2021	Compra	9
+GUAR3	Guararapes	Bens de Consumo e Varejo	5	17/12/2021	Compra	25
+HGTX3	Cia Henrig	Bens de Consumo e Varejo	5	17/12/2021	Sob Revisão	 - 
+HYPE3	Hypera Pharma	Bens de Consumo e Varejo	5	17/12/2021	Compra	41
+LAME4	Lojas Americanas	Bens de Consumo e Varejo	5	17/12/2021	Compra	29
+LJQQ3	Lojas Quero-quero	Bens de Consumo e Varejo	5	17/12/2021	Compra	25
+LREN3	Lojas Renner	Bens de Consumo e Varejo	5	17/12/2021	Compra	51
+MEAL3	IMC	Bens de Consumo e Varejo	5	17/12/2021	Neutra	4
+MGLU3	Magazine Luiza	Bens de Consumo e Varejo	5	17/12/2021	Compra	24
+MBLY3	Mobly	Bens de Consumo e Varejo	5	17/12/2021	Sob Revisão	 - 
+MLAS3	Multilaser	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	15
+NTCO3	Natura	Bens de Consumo e Varejo	5	17/12/2021	Compra	40
+PCAR3	GPA	Bens de Consumo e Varejo	5	17/12/2021	Compra	39
+PGMN3	Pague Menos	Saúde e Educação	5	17/12/2021	Compra	16
+SMFT3	Smartfit	Saúde e Educação	5	17/12/2021	Compra	33
+RADL3	RaiaDrogasil	Bens de Consumo e Varejo	5	17/12/2021	Neutra	28
+SOMA3	Grupo Soma	Bens de Consumo e Varejo	5	17/12/2021	Compra	20
+TFCO4	Track & Field	Bens de Consumo e Varejo	5	17/12/2021	Compra	18
+VIVA3	Vivara	Bens de Consumo e Varejo	5	17/12/2021	Compra	37
+VIIA3	Via	Bens de Consumo e Varejo	5	17/12/2021	Sob Revisão	 - 
+ABEV3	Ambev	Alimentos e Bebidas	5	17/12/2021	Neutra	19
+BEEF3	Minerva Foods	Alimentos e Bebidas	5	17/12/2021	Compra	17
+BRFS3	BRF Foods	Alimentos e Bebidas	5	17/12/2021	Neutra	24
+CAML3	Camil Alimentos	Alimentos e Bebidas	5	17/12/2021	Neutra	11
+JBSS3	JBS	Alimentos e Bebidas	5	17/12/2021	Compra	47
+MDIA3	M Dias Branco	Alimentos e Bebidas	5	17/12/2021	Neutra	30
+MRFG3	Marfrig	Alimentos e Bebidas	5	17/12/2021	Compra	26
+AFYA	Afya Ltd	Saúde e Educação	5	17/12/2021	Compra	38
+ANIM3	Anima Educação	Saúde e Educação	5	17/12/2021	Compra	19
+ARCE	Arco Platform Ltd	Saúde e Educação	5	17/12/2021	Compra	47
+COGN3	Cogna	Saúde e Educação	5	17/12/2021	Neutra	6
+SEER3	Ser Educacional	Saúde e Educação	5	17/12/2021	Neutra	22
+VTRU	Vitru	Saúde e Educação	5	17/12/2021	Compra	24
+YDUQ3	YDUQS	Saúde e Educação	5	17/12/2021	Neutra	45
+AALR3	Alliar	Saúde e Educação	5	17/12/2021	Neutra	15
+BLAU3	Blau Framacêutica	Saúde e Educação	5	17/12/2021	Compra	68
+DASA3	Dasa	Saúde e Educação	5	17/12/2021	Compra	81
+FLRY3	Fleury	Saúde e Educação	5	17/12/2021	Neutra	25
+GNDI3	Grupo NotreDame Intermédica	Saúde e Educação	5	17/12/2021	Compra	84
+HAPV3	Hapvida	Saúde e Educação	5	17/12/2021	Compra	17
+KRSA3	Kora Saude Participacoes	Saúde e Educação	5	17/12/2021	Compra	8
+MATD3	Mater Dei	Saúde e Educação	5	17/12/2021	Compra	23
+ODPV3	Odontoprev	Saúde e Educação	5	17/12/2021	Neutra	14
+ONCO3	Oncoclinicas do Brasil	Saúde e Educação	5	17/12/2021	Compra	18
+PARD3	Hermes Pardini	Saúde e Educação	5	17/12/2021	Neutra	26
+PNVL3	Dimed	Saúde e Educação	5	17/12/2021	Compra	20
+QUAL3	Qualicorp	Saúde e Educação	5	17/12/2021	Compra	39
+RDOR3	Rede d or	Saúde e Educação	5	17/12/2021	Compra	67
+VVEO3	CM Hospitalar	Saúde e Educação	5	17/12/2021	Compra	35
+BRDT3	BR Distribuidora	Petróleo, Gás e Petroquímicos	5	17/12/2021	Compra	34
+CSAN3	Cosan	Agronegócio	5	17/12/2021	Compra	30
+ENAT3	Enauta	Petróleo, Gás e Petroquímicos	5	17/12/2021	Neutra	13
+OPCT3	Oceanpact	Petróleo, Gás e Petroquímicos	5	17/12/2021	Compra	9
+PETR4	Petrobras	Petróleo, Gás e Petroquímicos	5	17/12/2021	Compra	38
+PRIO3	Petro Rio	Petróleo, Gás e Petroquímicos	5	17/12/2021	Compra	22
+RECV3	PetroRecôncavo	Petróleo, Gás e Petroquímicos	5	17/12/2021	Compra	25
+UGPA3	Ultrapar	Petróleo, Gás e Petroquímicos	5	17/12/2021	Compra	26
+ALSO3	Aliansce Sonae	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	36
+BRML3	brMalls	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	11
+BRPR3	BR Properties	Propriedades Comerciais e Construção Civil	5	17/12/2021	Neutra	10
+SYNE3	Cyrela Commercial Properties	Propriedades Comerciais e Construção Civil	5	17/12/2021	Neutra	17
+CURY3	Cury	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	15
+CYRE3	Cyrela	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	28
+DIRR3	Direcional	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	21
+EVEN3	Even	Propriedades Comerciais e Construção Civil	5	17/12/2021	Neutra	14
+EZTC3	Eztec	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	33
+HBOR3	Helbor	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	14
+IGTA3	Iguatemi	Propriedades Comerciais e Construção Civil	5	17/12/2021	Neutra	322
+JHSF3	JHSF	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	8
+LAVV3	Lavvi Empreendimentos	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	10
+LOGG3	Log Commercial Properties	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	36
+LPSB3	Lopes Brasil	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	4
+MDNE3	Moura Dubeux	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	18
+MELK3	Melnick	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	8
+MRVE3	MRV	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	21
+MTRE3	Mitre	Propriedades Comerciais e Construção Civil	5	17/12/2021	Neutra	19
+MULT3	Multiplan	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	31
+PLPL3	Plano&Plano	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	9
+SCAR3	Sao Carlos	Propriedades Comerciais e Construção Civil	5	17/12/2021	Neutra	44
+TCSA3	Tecnisa	Propriedades Comerciais e Construção Civil	5	17/12/2021	Venda	9
+TEND3	Tenda	Propriedades Comerciais e Construção Civil	5	17/12/2021	Compra	29
+AURA33	Aura Minerals	Mineração, Siderurgia, Papel e Celulose	5	17/12/2021	Neutra	72
+CSNA3	CSN	Mineração, Siderurgia, Papel e Celulose	5	17/12/2021	Neutra	25
+GGBR4	Gerdau	Mineração, Siderurgia, Papel e Celulose	5	17/12/2021	Compra	34
+KLBN11	Klabin S.A.	Mineração, Siderurgia, Papel e Celulose	5	17/12/2021	Compra	28
+SUZB3	Suzano S.A.	Mineração, Siderurgia, Papel e Celulose	5	17/12/2021	Compra	74
+USIM5	Usiminas	Mineração, Siderurgia, Papel e Celulose	5	17/12/2021	Compra	20
+VALE	Vale (ADR)	Mineração, Siderurgia, Papel e Celulose	5	17/12/2021	Compra	16
+VALE3	VALE S.A.	Mineração, Siderurgia, Papel e Celulose	5	17/12/2021	Compra	90
+BMOB3	Bemobi Tech	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	25
+DESK3	Desktop Sigmanet Comunicacao	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	40
+ELMD3	Eletromidia	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	25
+FIQE3	Unifique Telecomunicacoes	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	14
+IFCM3	Infracommerce	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	25
+INTB3	Intelbras	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	28
+LWSA3	Locaweb	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	19
+SEQL3	Sequoia Logística	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	36
+SQIA3	Sinqia	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	39
+TOTS3	Totvs	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	43
+VIVT3	Telefônica Brasil	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Compra	45
+VLID3	Valid	Telecomunicações, Mídia e Tecnologia	5	17/12/2021	Sob Revisão	 - 
+AZUL4	Azul	Transporte e Logística - Bens de Capital	5	17/12/2021	Neutra	41
+CCRO3	Grupo CCR	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	17
+ECOR3	Ecorodovias	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	16
+GGPS3	GPS Serviços	Serviços	5	17/12/2021	Compra	25
+GOLL4	Gol	Transporte e Logística - Bens de Capital	5	17/12/2021	Neutra	25
+JSLG3	JSL	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	14
+LOGN3	Log-In	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	22
+MOVI3	Movida	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	23
+MYPK3	Iochpe-Maxion	Indústria	5	17/12/2021	Compra	20
+POMO4	Marcopolo	Transporte e Logística - Bens de Capital	5	17/12/2021	Neutra	3
+RAPT4	Randon	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	16
+SIMH3	Simpar	Serviços bancários e financeiros	5	17/12/2021	Compra	13
+STBP3	Santos Brasil	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	10
+TGMA3	Tegma	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	22
+TUPY3	Tupy	Indústria	5	17/12/2021	Compra	27
+VAMO3	Vamos	Transporte e Logística - Bens de Capital	5	17/12/2021	Compra	19
+WEGE3	WEG	Indústria	5	17/12/2021	Neutra	46
+ALUP11	Alupar	Serviços de utilidade pública	5	17/12/2021	Compra	35
+AESB3	AES Brasil	Serviços de utilidade pública	5	17/12/2021	Compra	14
+CMIG4	Cemig	Serviços de utilidade pública	5	17/12/2021	Neutra	13
+CPFE3	CPFL Energia	Serviços de utilidade pública	5	17/12/2021	Compra	37
+CPLE6	Copel	Serviços de utilidade pública	5	17/12/2021	Compra	7
+CSMG3	Copasa	Serviços de utilidade pública	5	17/12/2021	Neutra	19
+EGIE3	Engie Brasil	Serviços de utilidade pública	5	17/12/2021	Compra	44
+ELET3	Eletrobras	Serviços de utilidade pública	5	17/12/2021	Compra	53
+ENEV3	Eneva	Serviços de utilidade pública	5	17/12/2021	Compra	19
+ENGI11	Energisa	Serviços de utilidade pública	5	17/12/2021	Compra	65
+EQTL3	Equatorial	Serviços de utilidade pública	5	17/12/2021	Compra	29
+LIGT3	Light S/A	Serviços de utilidade pública	5	17/12/2021	Neutra	21
+NEOE3	Neoenergia	Serviços de utilidade pública	5	17/12/2021	Compra	27
+OMGE3	Omega Geração	Serviços de utilidade pública	5	17/12/2021	Compra	38
+SAPR11	Sanepar	Serviços de utilidade pública	5	17/12/2021	Neutra	40
+SBSP3	Sabesp	Serviços de utilidade pública	5	17/12/2021	Compra	65
+TAEE11	Taesa	Serviços de utilidade pública	5	17/12/2021	Venda	37
+TRPL4	CTEEP	Serviços de utilidade pública	5	17/12/2021	Neutra	28
