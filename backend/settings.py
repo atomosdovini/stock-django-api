@@ -29,6 +29,8 @@ SECRET_KEY = config("SECRET_KEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG', cast=bool)
+DISABLE_COLLECTSTATIC=1
+
 
 ALLOWED_HOSTS = ['*', '127.0.0.1', 'consense-djangoapi.herokuapp.com']
 AFTER_RESPONSE_RUN_ASYNC = False
@@ -64,7 +66,7 @@ CORS_ORIGIN_WHITELIST = [
     'http://google.com',
     'http://127.0.0.1:8000',
     'http://127.0.0.1:3000',
-    'https://consense-djangoapi.herokuapp.com/'
+    'https://consense-djangoapi.herokuapp.com'
 ]
 
 MIDDLEWARE = [
