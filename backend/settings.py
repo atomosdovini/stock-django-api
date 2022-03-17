@@ -15,6 +15,7 @@ from datetime import timedelta
 from decouple import config
 from corsheaders.defaults import default_headers
 import django_on_heroku
+from dj_database_url import parse as db_url
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -106,21 +107,26 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 
+# DATABASES = {
+#     'default': {
+#         # 'ENGINE': 'django.db.backends.mysql',
+#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#         'NAME': config("NAME_DB"),
+#         'HOST': config("HOST_DB"),
+#         'PORT': config("PORT_DB"),
+#         'USER': config("USER_DB"),
+#         'PASSWORD': config("PASSWORD_DB"),
+#         # 'OPTIONS': {
+#         #     'init_command': 'SET sql_mode=STRICT_TRANS_TABLES'
+#         # }
+#     }
+# }
 DATABASES = {
-    'default': {
-        # 'ENGINE': 'django.db.backends.mysql',
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': config("NAME_DB"),
-        'HOST': config("HOST_DB"),
-        'PORT': config("PORT_DB"),
-        'USER': config("USER_DB"),
-        'PASSWORD': config("PASSWORD_DB"),
-        # 'OPTIONS': {
-        #     'init_command': 'SET sql_mode=STRICT_TRANS_TABLES'
-        # }
-    }
+    'default': config(
+        'DATABASE_URL',
+        default='sqlite:///{}'.format(os.path.join(BASE_DIR, 'db.sqlite3')),
+        cast=db_url),
 }
-
 # Email configuration
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
