@@ -108,6 +108,20 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 
+DATABASES = {
+    'default': {
+        # 'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'd7gllb81gaq3im',
+        'HOST': 'ec2-3-228-222-169.compute-1.amazonaws.com',
+        'PORT': '5432',
+        'USER': 'yhoqfptnoinaqp',
+        'PASSWORD': '002bafedca02ec9c8f48de2134bfff2916716ed95cf150576aafd10c79163252',
+        # 'OPTIONS': {
+        #     'init_command': 'SET sql_mode=STRICT_TRANS_TABLES'
+        # }
+    }
+}
 # DATABASES = {
 #     'default': {
 #         # 'ENGINE': 'django.db.backends.mysql',
@@ -122,16 +136,19 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 #         # }
 #     }
 # }
+# DATABASES = {
+#     'default':{
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3'
+#     }
+#     }
 
-DATABASES = {
-    'default': config(
-        'DATABASE_URL',
-        default='sqlite:///{}'.format(os.path.join(BASE_DIR, 'db.sqlite3')),
-        cast=db_url),
-}
-import dj_database_url
-db_from_env = dj_database_url.config(conn_max_age=600)
-DATABASES['default'].update(db_from_env)
+# DATABASES = {
+#     'default': config(
+#         'DATABASE_URL',
+#         default='sqlite:///{}'.format(os.path.join(BASE_DIR, 'db.sqlite3')),
+#         cast=db_url),
+# }
 # Email configuration
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
@@ -179,18 +196,17 @@ USE_TZ = True
 MEDIA_ROOT = os.path.join(BASE_DIR,'media')
 MEDIA_URL = '/media/'
 
-STATIC_URL = '/static/'
 
 # STATICFILES_DIRS = [
 #     os.path.join(BASE_DIR, 'static')
 # ]
 
-# STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 # STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_URL = '/static/'
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STATIC_ROOT  =   os.path.join(PROJECT_ROOT, 'staticfiles')
+# STATIC_ROOT  =   os.path.join(PROJECT_ROOT, 'staticfiles')
 
 REST_FRAMEWORK = {
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
