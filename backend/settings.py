@@ -29,16 +29,17 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = config("SECRET_KEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG', cast=bool)
+DEBUG = False
 DISABLE_COLLECTSTATIC=1
 
 
-ALLOWED_HOSTS = ['*', '127.0.0.1', 'consense-djangoapi.herokuapp.com']
+ALLOWED_HOSTS = ['*','damp-castle-37149.herokuapp.com', '127.0.0.1', 'consense-djangoapi.herokuapp.com']
 AFTER_RESPONSE_RUN_ASYNC = False
 
 # Application definition
 
 INSTALLED_APPS = [
+    'whitenoise.runserver_nostatic',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -121,12 +122,16 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 #         # }
 #     }
 # }
+
 DATABASES = {
     'default': config(
         'DATABASE_URL',
         default='sqlite:///{}'.format(os.path.join(BASE_DIR, 'db.sqlite3')),
         cast=db_url),
 }
+import dj_database_url
+db_from_env = dj_database_url.config(conn_max_age=600)
+DATABASES['default'].update(db_from_env)
 # Email configuration
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
@@ -171,7 +176,8 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
-
+MEDIA_ROOT = os.path.join(BASE_DIR,'media')
+MEDIA_URL = '/media/'
 
 STATIC_URL = '/static/'
 
@@ -181,6 +187,7 @@ STATIC_URL = '/static/'
 
 # STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 # STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATIC_ROOT  =   os.path.join(PROJECT_ROOT, 'staticfiles')
